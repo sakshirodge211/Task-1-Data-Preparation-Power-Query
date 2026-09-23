@@ -1,0 +1,1216 @@
+Order_ID,Order_Date,Customer_Name,Category,Region,Sales_Channel,Quantity,Unit_Price,Discount,Sales_Amount,Cost_Amount,Payment_Method,Order_Status
+ORD00001,2025-11-24,Rahul,Electronics,North,Mobile App,2,771.52,0.1,1388.74,865.83,Debit Card,Completed
+ORD00002,2025-01-16,Sneha,Home Appliances,West,Online,2,5583.15,0.2,8933.04,6526.53,Debit Card,Cancelled
+ORD00003,2025-01-04,Sneha,Office Supplies,North,Online,3,17498.76,0.1,47246.65,29924.2,Debit Card,Completed
+ORD00004,2025-07-03,Priya,Accessories,North,Mobile App,6,15152.59,0.0,90915.54,69906.73,Cash,Cancelled
+ORD00005,2025-10-23,Vikram,Electronics,South,Online,4,17658.61,0.0,70634.44,52861.33,Debit Card,Cancelled
+ORD00006,2025-08-21,Vikram,Electronics,South,Mobile App,6,4191.95,0.1,22636.53,13872.85,UPI,Pending
+ORD00007,2025-08-25,Neha,Electronics,South,Online,7,6858.2,0.2,38405.92,23653.61,Cash,Returned
+ORD00008,2025-05-18,Neha,Furniture,West,Store,2,5392.92,0.2,8628.67,7014.33,Debit Card,Pending
+ORD00009,2025-05-16,Rohan,Home Appliances,West,Store,3,6278.69,0.2,15068.86,10724.4,UPI,Pending
+ORD00010,2025-09-18,Rahul,Furniture,West,Mobile App,8,2409.1,0.0,19272.8,15578.8,Credit Card,Returned
+ORD00011,2025-07-15,Aarav,Electronics,East,Mobile App,8,13298.49,0.2,85110.34,68789.06,Cash,Completed
+ORD00012,2025-05-31,Vikram,Home Appliances,South,Mobile App,7,4080.22,0.0,28561.54,23881.58,Credit Card,Cancelled
+ORD00013,2025-11-24,Aarav,Home Appliances,East,Store,4,3948.06,0.05,15002.63,10679.08,Credit Card,Completed
+ORD00014,2025-07-05,Priya,Electronics,West,Online,5,6100.39,0.05,28976.85,23569.85,Net Banking,Pending
+ORD00015,2025-03-07,Rohan,Furniture,South,Mobile App,8,23679.19,0.05,179961.84,113289.04,Cash,Returned
+ORD00016,2025-12-10,Sneha,Furniture,North,Store,6,11036.79,0.2,52976.59,36312.58,Credit Card,Pending
+ORD00017,2025-10-29,Aarav,Office Supplies,North,Mobile App,4,328.69,0.0,1314.76,813.42,UPI,Cancelled
+ORD00018,2025-12-09,Ananya,Furniture,West,Store,8,5473.78,0.05,41600.73,31908.0,UPI,Completed
+ORD00019,2025-02-19,Aarav,Electronics,North,Store,7,8954.29,0.15,53278.03,36767.56,Cash,Completed
+ORD00020,2025-05-08,Rahul,Office Supplies,West,Online,4,4876.69,0.15,16580.75,9816.71,Credit Card,Returned
+ORD00021,2025-10-09,Priya,Furniture,South,Store,2,1407.12,0.2,2251.39,1802.93,Debit Card,Returned
+ORD00022,2025-04-20,Rohan,Office Supplies,West,Store,7,22575.71,0.05,150128.47,99639.05,Debit Card,Returned
+ORD00023,2025-03-21,Aarav,Office Supplies,North,Online,4,7523.19,0.0,30092.76,21779.76,Net Banking,Returned
+ORD00024,2025-09-15,Rahul,Electronics,North,Mobile App,3,1563.46,,3752.3,2153.95,UPI,Returned
+ORD00025,2025-03-03,Rohan,Home Appliances,East,Store,4,14536.14,0.0,58144.56,42783.61,UPI,Cancelled
+ORD00026,2025-05-03,Priya,Electronics,West,Mobile App,5,9985.28,0.1,44933.76,30877.01,Net Banking,Completed
+ORD00027,2025-02-07,Priya,Furniture,East,Store,4,12721.23,0.05,48340.67,40121.68,UPI,Returned
+ORD00028,2025-10-06,Vikram,Electronics,South,Store,5,15350.19,0.2,61400.76,33914.52,Credit Card,Completed
+ORD00029,2025-10-11,Neha,Furniture,East,Mobile App,3,6917.85,0.2,16602.84,10180.68,Debit Card,Cancelled
+ORD00030,2025-01-27,Neha,Furniture,East,Online,2,15911.97,0.1,28641.55,16131.67,,Returned
+ORD00031,2025-10-15,Neha,Home Appliances,South,Store,1,2930.07,0.05,2783.57,1986.57,UPI,Completed
+ORD00032,2025-06-07,Sneha,Furniture,North,Store,6,22489.69,0.0,134938.14,110605.74,Net Banking,Returned
+ORD00033,2025-11-14,Rahul,Accessories,North,Online,3,23155.23,0.05,65992.41,53413.05,Cash,Returned
+ORD00034,2025-12-09,Aarav,Accessories,South,Online,4,6780.12,0.0,27120.48,18028.68,Debit Card,Cancelled
+ORD00035,2025-06-06,Vikram,Electronics,East,Store,4,5689.65,0.05,21620.67,14475.9,Net Banking,Returned
+ORD00036,2025-12-14,Vikram,Furniture,East,Online,6,23490.04,0.0,140940.24,114600.13,Credit Card,Returned
+ORD00037,2025-06-26,Sneha,Office Supplies,North,Mobile App,6,10994.39,0.2,52773.07,30856.08,Debit Card,Completed
+ORD00038,2025-09-24,Neha,Home Appliances,East,Mobile App,4,9200.9,0.0,36803.6,30718.58,Credit Card,Cancelled
+ORD00039,2025-09-17,Vikram,Home Appliances,South,Online,5,16722.29,0.1,75250.31,50471.9,Debit Card,Returned
+ORD00040,2025-12-13,Aarav,Office Supplies,East,Online,3,15445.55,0.1,41702.98,28017.0,Debit Card,Cancelled
+ORD00041,2025-08-27,Rahul,Electronics,East,Mobile App,8,11137.67,0.05,84646.29,59536.15,Net Banking,Cancelled
+ORD00042,2025-02-17,Rahul,Electronics,North,Online,4,16868.97,0.05,64102.09,50766.86,Debit Card,Completed
+ORD00043,2025-08-22,Rohan,Accessories,West,Online,7,22170.5,0.2,124154.8,75527.16,UPI,Completed
+ORD00044,2025-02-24,Sneha,Electronics,West,Online,7,5588.2,0.2,31293.92,21572.93,Debit Card,Cancelled
+ORD00045,2025-08-15,Rahul,Accessories,West,Store,7,20789.64,0.2,116421.98,79606.33,UPI,Cancelled
+ORD00046,2025-09-24,Vikram,Furniture,East,Store,8,15724.7,0.1,113217.84,77210.24,Cash,Completed
+ORD00047,2025-03-12,Priya,Accessories,West,Store,3,5896.85,0.05,16806.02,12804.94,Net Banking,Returned
+ORD00048,2025-08-01,Aarav,Home Appliances,West,Store,1,5289.83,0.15,4496.36,2998.37,Credit Card,Cancelled
+ORD00049,2025-06-02,Sneha,Accessories,South,Store,7,21358.18,0.15,127081.17,90413.95,Debit Card,Returned
+ORD00050,2025-01-15,Ananya,Furniture,North,Store,7,8502.82,0.15,50591.78,38816.77,Net Banking,Completed
+ORD00051,2025-02-12,Vikram,Accessories,East,Online,7,3522.13,0.15,20956.67,12668.7,Debit Card,Cancelled
+ORD00052,2025-06-22,Priya,Accessories,North,Mobile App,7,7064.68,0.15,42034.85,26300.43,Net Banking,Completed
+ORD00053,2025-06-29,Sneha,Furniture,North,Mobile App,4,16306.08,0.0,65224.32,50631.68,UPI,completed
+ORD00054,2025-03-06,Ananya,Office Supplies,East,Online,8,16786.05,0.2,107430.72,89632.36,Net Banking,Completed
+ORD00055,2025-03-25,Rohan,Accessories,South,Online,5,2836.25,0.0,14181.25,11751.52,Net Banking,Pending
+ORD00056,2025-02-22,Aarav,Office Supplies,West,Mobile App,5,21279.79,0.2,85119.16,67385.3,Cash,Completed
+ORD00057,2025-09-17,Priya,Accessories,East,Mobile App,6,464.41,0.15,2368.49,1886.97,Debit Card,Pending
+ORD00058,2025-08-11,Ananya,Accessories,West,Mobile App,3,18384.81,0.1,49638.99,36473.42,Net Banking,Cancelled
+ORD00059,2025-06-15,Ananya,Furniture,West,Mobile App,4,20793.67,0.0,83174.68,52706.0,Net Banking,Returned
+ORD00060,2025-06-22,Sneha,Office Supplies,East,Store,1,12433.52,0.1,11190.17,6765.04,Cash,Cancelled
+ORD00061,2025-10-12,Rohan,Accessories,South,Mobile App,1,12988.19,0.05,12338.78,7103.24,Debit Card,Returned
+ORD00062,2025-08-18,Sneha,Office Supplies,East,Store,1,2462.38,0.05,2339.26,1570.39,Net Banking,Cancelled
+ORD00063,2025-08-06,Vikram,Furniture,North,Mobile App,6,8892.49,0.15,45351.7,28629.39,UPI,Cancelled
+ORD00064,2025-03-03,Vikram,Electronics,South,Store,3,4909.79,0.15,12519.96,7924.51,UPI,Cancelled
+ORD00065,2025-04-02,Aarav,Electronics,East,Mobile App,5,501.59,0.2,2006.36,1179.69,UPI,Returned
+ORD00066,2025-02-22,Neha,Furniture,North,Store,1,14415.5,0.15,12253.17,8498.97,Debit Card,Completed
+ORD00067,2025-02-03,Aarav,Furniture,South,Mobile App,7,12369.9,0.2,69271.44,51180.08,Cash,Completed
+ORD00068,2025-05-08,Sneha,Home Appliances,West,Store,2,14018.11,0.15,23830.79,17441.64,Debit Card,Cancelled
+ORD00069,2025-10-29,Priya,Furniture,South,Store,7,7738.7,0.2,43336.72,24618.25,Credit Card,Pending
+ORD00070,2025-05-03,Ananya,Home Appliances,West,Store,3,13867.01,,39520.98,21768.26,Credit Card,Pending
+ORD00071,2025-05-28,Sneha,Office Supplies,South,Store,5,17619.24,0.15,74881.77,42783.99,,Pending
+ORD00072,2025-11-28,Rahul,Office Supplies,East,Store,3,22724.02,0.05,64763.46,37007.33,Credit Card,Returned
+ORD00073,2025-12-19,Ananya,Accessories,North,Mobile App,5,17538.38,0.1,78922.71,55257.08,Credit Card,Returned
+ORD00074,2025-06-15,Aarav,Office Supplies,North,Online,5,792.74,0.05,3765.51,3157.66,Debit Card,Returned
+ORD00075,2025-05-23,Ananya,Electronics,West,Store,3,24924.1,0.15,63556.45,47059.45,Debit Card,Cancelled
+ORD00076,2025-06-14,Ananya,Office Supplies,West,Mobile App,2,21464.67,0.1,38636.41,26021.37,Credit Card,Returned
+ORD00077,2025-02-15,Rohan,Home Appliances,North,Mobile App,6,6422.11,0.0,38532.66,32408.1,Net Banking,Returned
+ORD00078,2025-07-31,Ananya,Accessories,North,Online,1,4811.43,0.1,4330.29,3190.52,Cash,Pending
+ORD00079,2025-05-28,Sneha,Furniture,East,Mobile App,8,22039.04,0.15,149865.47,87885.28,Credit Card,Returned
+ORD00080,2025-02-17,Priya,Furniture,West,Mobile App,4,24807.59,0.0,99230.36,68313.59,Cash,Cancelled
+ORD00081,2025-08-01,Rahul,Accessories,South,Mobile App,8,24509.08,0.05,186269.01,127973.5,Net Banking,Pending
+ORD00082,2025-02-05,Vikram,Electronics,East,Mobile App,5,19350.98,0.15,82241.66,53618.48,Cash,Returned
+ORD00083,2025-03-18,Rohan,Accessories,East,Online,8,13533.73,0.1,97442.86,63311.74,UPI,Returned
+ORD00084,2025-04-30,Rohan,Accessories,South,Store,7,1234.64,0.15,7346.11,5594.56,Credit Card,Pending
+ORD00085,2025-09-15,Ananya,Electronics,South,Store,6,21762.05,0.15,110986.45,64362.54,UPI,Completed
+ORD00086,2025-08-29,Neha,Home Appliances,West,Store,5,8563.25,0.15,36393.81,27111.6,Debit Card,Completed
+ORD00087,2025-11-13,Priya,Accessories,North,Mobile App,2,5984.04,0.1,10771.27,9147.26,Credit Card,Returned
+ORD00088,2025-03-27,Aarav,Office Supplies,East,Store,5,22600.09,0.0,113000.45,73146.59,Debit Card,Pending
+ORD00089,2025-05-06,Priya,Home Appliances,West,Mobile App,7,14213.31,0.05,94518.51,56805.16,UPI,Returned
+ORD00090,2025-10-26,Aarav,Accessories,East,Mobile App,3,5919.88,0.1,15983.68,10994.71,Net Banking,Pending
+ORD00091,2025-02-07,Rohan,Office Supplies,West,Store,8,23639.11,0.2,151290.3,96787.41,UPI,Returned
+ORD00092,2025-09-05,Vikram,Office Supplies,North,Mobile App,2,6044.56,0.2,9671.3,6360.7,Debit Card,Cancelled
+ORD00093,2025-01-05,Vikram,Furniture,East,Online,1,22778.83,0.15,19362.01,15486.74,UPI,Cancelled
+ORD00094,2025-12-14,Ananya,Electronics,East,Mobile App,3,15761.97,0.0,47285.91,30389.7,UPI,Completed
+ORD00095,2025-06-01,Neha,Home Appliances,East,Online,6,18724.9,0.05,106731.93,65131.93,Cash,Returned
+ORD00096,2025-06-01,Rahul,Furniture,West,Mobile App,6,20135.18,0.15,102689.42,86142.87,Cash,Completed
+ORD00097,2025-07-22,Vikram,Home Appliances,West,Mobile App,1,6721.8,0.0,6721.8,4614.08,Cash,Completed
+ORD00098,2025-12-12,Neha,Home Appliances,South,Mobile App,4,11866.2,0.2,37971.84,30957.32,Credit Card,Returned
+ORD00099,2025-12-25,Aarav,Office Supplies,West,Online,5,16283.6,0.0,81418.0,48194.01,,Pending
+ORD00100,2025-10-03,Rohan,Home Appliances,South,Store,3,9807.85,0.1,26481.2,19891.24,Credit Card,Returned
+ORD00101,2025-11-12,Neha,Furniture,West,Store,7,23485.47,0.1,147958.46,82829.35,UPI,Cancelled
+ORD00102,2025-02-20,Vikram,Furniture,North,Store,6,13679.98,0.1,73871.89,41971.42,Credit Card,Pending
+ORD00103,2025-11-25,Rahul,Home Appliances,South,Online,1,1406.88,0.1,1266.19,788.93,Net Banking,Pending
+ORD00104,2025-10-28,Rahul,Home Appliances,North,Store,4,20354.37,0.05,77346.61,50164.53,UPI,Pending
+ORD00105,2025-10-04,Aarav,Furniture,North,Store,5,19993.07,0.0,99965.35,74805.8,UPI,Cancelled
+ORD00106,2025-01-09,Priya,Electronics,West,Store,3,6744.38,0.05,19221.48,14848.89,Cash,Completed
+ORD00107,2025-08-20,Vikram,Accessories,North,Online,4,23643.58,0.0,94574.32,72649.43,Debit Card,Returned
+ORD00108,2025-08-07,Priya,Office Supplies,South,Online,2,12333.18,0.15,20966.41,11993.78,UPI,Cancelled
+ORD00109,2025-11-16,Ananya,Home Appliances,West,Online,6,9615.47,0.2,46154.26,32731.08,Credit Card,Pending
+ORD00110,2025-08-09,Ananya,Accessories,West,Mobile App,8,22219.06,0.15,151089.61,98462.0,Credit Card,Cancelled
+ORD00111,2025-08-07,Ananya,Electronics,North,Online,6,16677.93,0.1,90060.82,75297.85,Credit Card,Returned
+ORD00112,2025-02-19,Neha,Electronics,West,Store,6,20322.47,0.2,97547.86,55406.63,Debit Card,Completed
+ORD00113,2025-05-28,Rahul,Accessories,South,Online,5,8888.41,0.2,35553.64,24966.61,Cash,Cancelled
+ORD00114,2025-02-28,Aarav,Home Appliances,East,Online,5,14416.39,0.15,61269.66,49233.02,UPI,Cancelled
+ORD00115,2025-12-26,Rahul,Home Appliances,West,Online,5,23050.21,0.1,103725.94,57239.27,UPI,Completed
+ORD00116,2025-02-16,Neha,Office Supplies,East,Mobile App,4,9498.43,0.15,32294.66,21064.8,Net Banking,Completed
+ORD00117,2025-01-27,Priya,Office Supplies,West,Mobile App,3,4061.64,0.2,9747.94,5506.89,Debit Card,Returned
+ORD00118,2025-11-07,Priya,Office Supplies,West,Online,8,10442.47,0.05,79362.77,61623.84,Cash,Returned
+ORD00119,2025-09-27,Aarav,Electronics,South,Store,5,1278.62,0.15,5434.13,4593.65,UPI,Pending
+ORD00120,2025-05-11,Rohan,Furniture,South,Store,5,8303.84,0.0,41519.2,29030.87,Net Banking,Pending
+ORD00121,2025-09-14,Ananya,Electronics,East,Mobile App,6,1941.08,0.0,11646.48,7929.69,Debit Card,Returned
+ORD00122,2025-12-30,Neha,Furniture,West,Mobile App,7,7344.45,0.15,43699.48,24308.14,Cash,Completed
+ORD00123,2025-08-12,Priya,Accessories,East,Mobile App,2,6196.41,0.2,9914.26,6643.89,Cash,Pending
+ORD00124,2025-06-20,Sneha,Office Supplies,East,Mobile App,3,2048.03,0.0,6144.09,4357.27,UPI,Pending
+ORD00125,2025-02-22,Priya,Furniture,West,Store,3,6510.81,0.05,18555.81,13559.1,Net Banking,Returned
+ORD00126,2025-12-15,Priya,Accessories,West,Mobile App,6,21626.53,0.1,116783.26,69519.58,Cash,Cancelled
+ORD00127,2025-10-30,Ananya,Electronics,North,Store,1,8895.76,0.0,8895.76,5721.06,Cash,Completed
+ORD00128,2025-11-27,Aarav,Accessories,South,Store,2,15432.96,0.2,24692.74,16429.18,Net Banking,Returned
+ORD00129,2025-09-14,Neha,Electronics,South,Online,3,23949.4,0.15,61070.97,35485.32,UPI,Returned
+ORD00130,2025-08-13,Neha, Home Appliances ,North,Mobile App,3,9192.86,0.1,24820.72,16536.18,Cash,Completed
+ORD00131,2025-06-18,Rahul,Office Supplies,North,Mobile App,2,14015.39,0.15,23826.16,15135.43,UPI,Cancelled
+ORD00132,2025-06-08,Rohan,Office Supplies,South,Mobile App,7,3354.45,0.0,23481.15,15095.43,Net Banking,Completed
+ORD00133,2025-11-27,Rahul,Furniture,East,Store,7,12785.94,0.0,89501.58,58961.79,UPI,Pending
+ORD00134,2025-03-12,Aarav,Office Supplies,South,Mobile App,3,2067.55,0.0,6202.65,4356.16,Debit Card,Pending
+ORD00135,2025-03-25,Rahul,Accessories,North,Store,3,20808.92,0.2,49941.41,39589.21,Cash,Pending
+ORD00136,2025-08-16,Sneha,Office Supplies,West,Online,5,18846.92,0.15,80099.41,49677.72,Cash,Returned
+ORD00137,2025-08-25,Rahul,Furniture,South,Store,5,19486.38,0.2,77945.52,55203.97,Credit Card,Returned
+ORD00138,2025-07-10,Vikram,Electronics,South,Store,2,17828.31,0.2,28525.3,22972.85,Debit Card,Pending
+ORD00139,2025-08-12,Neha,Electronics,West,Online,2,23668.37,0.05,44969.9,35751.56,Debit Card,Cancelled
+ORD00140,2025-05-01,Neha,Electronics,East,Online,7,24863.95,0.1,156642.89,96705.31,UPI,Completed
+ORD00141,2025-05-27,Ananya,Accessories,North,Online,8,17447.39,0.05,132600.16,103116.83,Credit Card,Cancelled
+ORD00142,2025-04-21,Priya,Office Supplies,South,Store,3,13787.79,0.2,33090.7,23439.18,Credit Card,Completed
+ORD00143,2025-05-03,Priya,Accessories,North,Mobile App,7,16027.95,0.2,89756.52,61674.76,Net Banking,Pending
+ORD00144,2025-03-15,Rohan,Furniture,North,Mobile App,5,10816.59,0.2,43266.36,28376.02,Cash,Completed
+ORD00145,2025-09-27,Rohan,Office Supplies,East,Mobile App,1,9852.78,0.15,8374.86,4715.55,Credit Card,Cancelled
+ORD00146,2025-02-04,Neha,Furniture,North,Store,6,6141.98,0.0,36851.88,28797.92,Net Banking,Cancelled
+ORD00147,2025-11-26,Ananya,Furniture,South,Online,3,20785.03,0.15,53001.83,44746.57,Debit Card,Completed
+ORD00148,2025-05-31,Neha,Office Supplies,West,Mobile App,4,1238.59,0.05,4706.64,3839.38,Debit Card,Cancelled
+ORD00149,2025-01-19,Neha,Office Supplies,North,Store,4,7259.86,0.0,29039.44,23514.38,Debit Card,Returned
+ORD00150,2025-08-14,Ananya,Office Supplies,East,Online,7,8575.06,0.05,57024.15,39851.95,Debit Card,Completed
+ORD00151,2025-08-09,Neha,Office Supplies,East,Store,3,13705.04,0.1,37003.61,21490.93,Net Banking,Returned
+ORD00152,2025-03-27,Neha,Home Appliances,West,Store,8,8885.94,0.0,71087.52,54598.37,Credit Card,Completed
+ORD00153,2025-12-10,Rahul,Home Appliances,West,Online,7,9178.28,0.05,61035.56,51015.77,UPI,Completed
+ORD00154,2025-05-01,Rahul,Accessories,East,Store,6,9149.44,0.2,43917.31,24581.2,Debit Card,Completed
+ORD00155,2025-10-21,Vikram,Furniture,North,Online,3,13307.08,0.15,33933.05,21863.59,UPI,Returned
+ORD00156,2025-09-23,Vikram,Accessories,South,Mobile App,7,22851.53,0.0,159960.71,100540.59,Cash,Returned
+ORD00157,2025-04-13,Ananya,Electronics,East,Mobile App,2,3522.85,0.0,7045.7,4830.62,Cash,Completed
+ORD00158,2025-10-09,Rahul,Office Supplies,South,Online,5,22299.59,0.05,105923.05,80876.77,UPI,Pending
+ORD00159,2025-05-02,Ananya,Home Appliances,South,Mobile App,8,803.16,0.2,5140.22,3709.61,Credit Card,Completed
+ORD00160,2025-06-08,Rohan,Home Appliances,North,Online,7,24989.94,0.15,148690.14,105229.31,Cash,Completed
+ORD00161,2025-08-19,Rahul,Furniture,West,Mobile App,8,17050.71,0.1,122765.11,72247.31,Credit Card,Completed
+ORD00162,2025-09-23,Sneha,Office Supplies,East,Online,3,7707.49,0.05,21966.35,14207.8,Cash,Pending
+ORD00163,2025-11-22,Priya,Home Appliances,South,Mobile App,5,3260.48,0.1,14672.16,10774.19,Net Banking,Pending
+ORD00164,2025-03-29,Aarav,Electronics,North,Mobile App,6,21086.87,0.2,101216.98,56920.21,Net Banking,Cancelled
+ORD00165,2025-11-30,Aarav,Accessories,East,Mobile App,4,19208.93,0.15,65310.36,48031.36,Cash,Returned
+ORD00166,2025-05-06,Rahul,Accessories,West,Store,7,7541.23,0.0,52788.61,39939.02,Debit Card,Pending
+ORD00167,2025-06-24,Neha,Accessories,South,Store,3,7917.68,0.1,21377.74,16466.42,Net Banking,Completed
+ORD00168,2025-06-13,Rahul,Electronics,North,Store,4,11741.84,0.1,42270.62,28950.25,Debit Card,Returned
+ORD00169,2025-05-08,,Furniture,West,Mobile App,3,20364.92,0.2,48875.81,37455.42,Debit Card,Returned
+ORD00170,2025-06-07,Sneha,Furniture,East,Online,8,725.93,0.15,4936.32,3463.49,Credit Card,Cancelled
+ORD00171,2025-09-11,Rohan,Furniture,East,Mobile App,8,7250.85,0.0,58006.8,46646.27,Cash,Returned
+ORD00172,2025-07-07,Neha,Home Appliances,East,Online,1,10104.45,0.2,8083.56,5808.4,Debit Card,Returned
+ORD00173,2025-10-09,Priya,Furniture,North,Store,5,20658.99,0.2,82635.96,62317.4,Cash,Cancelled
+ORD00174,2025-10-13,Rohan,Home Appliances,North,Online,6,18910.88,0.05,107792.02,78767.82,Credit Card,Pending
+ORD00175,2025-06-20,Rahul,Office Supplies,East,Online,8,13055.42,0.05,99221.19,72617.82,Debit Card,Cancelled
+ORD00176,2025-10-31,Vikram,Accessories,North,Store,6,12756.78,0.2,61232.54,43456.85,Cash,Completed
+ORD00177,2025-08-02,Vikram,Home Appliances,South,Mobile App,5,19949.36,0.0,99746.8,72722.69,Credit Card,Returned
+ORD00178,2025-03-29,Priya,Furniture,North,Store,7,3822.23,0.05,25417.83,14220.54,Cash,Returned
+ORD00179,2025-03-19,Ananya,Electronics,South,Mobile App,7,17308.93,0.15,102988.13,72147.91,UPI,Cancelled
+ORD00180,2025-12-06,Ananya,Home Appliances,East,Mobile App,8,13208.11,0.1,95098.39,79597.89,Cash,Cancelled
+ORD00181,2025-11-09,Vikram,Furniture,East,Store,8,4927.76,0.05,37450.98,23732.76,UPI,Returned
+ORD00182,2025-06-12,Rohan,Accessories,East,Online,8,8817.76,0.1,63487.87,40399.67,Cash,Completed
+ORD00183,2025-05-28,Ananya,Furniture,South,Mobile App,2,8757.13,0.15,14887.12,11117.58,Cash,Cancelled
+ORD00184,2025-03-12,Aarav,Home Appliances,South,Mobile App,2,15449.57,0.2,24719.31,15370.09,UPI,Completed
+ORD00185,2025-02-21,Rahul,Electronics,South,Store,7,8357.8,0.15,49728.91,28850.9,Debit Card,Returned
+ORD00186,2025-11-30,Aarav,Electronics,South,Mobile App,4,18934.39,0.1,68163.8,44057.69,Credit Card,Pending
+ORD00187,2025-08-02,Rohan,Accessories,South,Mobile App,3,23357.98,0.0,70073.94,59503.39,Cash,Completed
+ORD00188,2025-01-05,Neha,Office Supplies,West,Mobile App,5,14263.85,0.0,71319.25,59090.6,Net Banking,Returned
+ORD00189,2025-03-10,Ananya,Office Supplies,South,Online,8,6930.0,0.0,55440.0,35991.94,Cash,Cancelled
+ORD00190,2025-10-18,Neha,Electronics,West,Mobile App,4,4511.05,0.15,15337.57,12240.87,Credit Card,Pending
+ORD00191,2025-03-13,Rohan,Furniture,West,Store,8,8191.5,0.05,62255.4,34368.03,Cash,Cancelled
+ORD00192,2025-10-26,Aarav,Electronics,West,Store,1,6649.6,0.1,5984.64,4535.34,UPI,Returned
+ORD00193,2025-12-18,Sneha,Furniture,South,Store,5,17303.72,0.1,77866.74,51412.54,UPI,Returned
+ORD00194,2025-11-07,Sneha,Furniture,North,Mobile App,6,10483.76,0.2,50322.05,41457.27,Debit Card,Returned 
+ORD00195,2025-02-09,,Home Appliances,South,Online,2,1684.69,0.2,2695.5,2212.65,Cash,Returned
+ORD00196,2025-03-01,Ananya,Electronics,West,Online,4,17965.41,0.15,61082.39,35261.79,Net Banking,Returned
+ORD00197,2025-08-22,Rohan,Office Supplies,North,Mobile App,1,14036.11,0.1,12632.5,9688.93,UPI,Completed
+ORD00198,2025-01-24,, Electronics ,West,Online,7,8711.54,0.0,60980.78,43439.6,Cash,Returned
+ORD00199,2025-04-03,Rohan,Accessories,West,Store,3,19180.82,0.15,48911.09,32395.69,Credit Card,Pending
+ORD00200,2025-12-01,Rahul,Furniture,North,Online,6,3098.03,0.2,14870.54,9932.3,Cash,Returned
+ORD00201,2025-12-11,Neha,Furniture,East,Online,7,13368.55,0.05,88900.86,55496.68,Credit Card,Completed
+ORD00202,2025-12-05,Priya,Electronics,North,Store,7,15430.84,0.0,108015.88,67207.47,Net Banking,Completed
+ORD00203,2025-05-06,Aarav,Furniture,East,Online,1,10146.29,0.05,9638.98,6862.26,Net Banking,Cancelled
+ORD00204,2025-10-23,Sneha,Accessories,East,Store,6,6037.07,0.05,34411.3,29101.93,Credit Card,Pending
+ORD00205,2025-11-17,Rohan,Home Appliances,East,Mobile App,7,13962.89,0.0,97740.23,82266.69,Debit Card,Returned
+ORD00206,2025-03-18,Sneha,Office Supplies,South,Store,5,9505.04,0.2,38020.16,26312.07,Credit Card,Returned
+ORD00207,2025-08-02,Priya,Accessories,East,Online,3,9802.21,0.1,26465.97,16170.73,Net Banking,Pending
+ORD00208,2025-01-27,Priya,Furniture,South,Store,5,9522.62,0.2,38090.48,27839.44,UPI,Cancelled
+ORD00209,2025-06-05,Priya,Accessories,South,Mobile App,1,5413.42,0.05,5142.75,4312.83,Net Banking,Pending
+ORD00210,2025-07-23,Neha,Office Supplies,East,Store,4,13869.17,0.1,49929.01,33162.77,Net Banking,Returned
+ORD00211,2025-08-27,Neha,Furniture,East,Store,2,20099.99,0.15,34169.98,26600.94,Debit Card,Completed
+ORD00212,2025-10-16,Rohan,Office Supplies,South,Online,4,18570.12,0.0,74280.48,46665.39,Cash,Pending
+ORD00213,2025-07-14,Ananya,Accessories,West,Online,4,12557.64,0.1,45207.5,28354.05,Cash,Pending
+ORD00214,2025-03-13,Aarav,Home Appliances,North,Online,8,4723.59,0.2,30230.98,25608.57,Credit Card,Completed
+ORD00215,2025-07-31,Rahul,Electronics,South,Mobile App,3,21087.24,0.05,60098.63,34279.68,Debit Card,Cancelled
+ORD00216,2025-01-31,,Electronics,North,Mobile App,8,16533.22,0.0,132265.76,73008.54,Cash,Cancelled
+ORD00217,2025-01-09,Priya,Home Appliances,South,Online,7,20183.27,0.05,134218.75,78129.4,UPI,Cancelled
+ORD00218,2025-07-01,Rohan,Accessories,South,Mobile App,5,19904.17,0.0,99520.85,65874.39,UPI,Cancelled
+ORD00219,2025-12-17,Rohan,Accessories,West,Online,2,16395.33,0.0,32790.66,18954.65,Credit Card,Pending
+ORD00220,2025-02-12,Priya,Home Appliances,North,Online,8,21156.45,0.1,152326.44,109638.02,UPI,Returned
+ORD00221,2025-05-19,Aarav,Furniture,East,Online,1,23115.36,0.1,20803.82,17054.84,UPI,Pending
+ORD00222,2025-12-31,Sneha,Home Appliances,West,Mobile App,7,23232.54,0.1,146365.0,87633.86,Net Banking,Cancelled
+ORD00223,2025-07-16,Neha,Electronics,North,Store,3,19793.88,0.0,59381.64,41581.27,UPI,Completed
+ORD00224,2025-06-24,Vikram,Accessories,West,Online,7,24227.68,0.1,152634.38,85305.48,Cash,Returned
+ORD00225,2025-08-10,Vikram,Furniture,North,Online,3,17040.42,0.15,43453.07,25016.29,Cash,Pending
+ORD00226,2025-07-14,Priya,Electronics,East,Store,3,18530.43,0.1,50032.16,32931.67,Cash,Cancelled
+ORD00227,2025-02-22,Rohan,Electronics,North,Online,3,2319.34,0.15,5914.32,4049.26,Cash,Completed
+ORD00228,2025-11-02,Rohan,Electronics,South,Mobile App,6,21613.4,0.0,129680.4,82678.28,Net Banking,Pending
+ORD00229,2025-12-17,Ananya,Furniture,North,Online,7,4362.12,0.1,27481.36,17597.4,Debit Card,Cancelled
+ORD00230,2025-08-04,Sneha,Accessories,South,Store,5,12183.15,0.0,60915.75,40103.12,Credit Card,Pending
+ORD00231,2025-06-05,Rohan,Office Supplies,West,Store,1,23728.26,0.1,21355.43,17137.39,Debit Card,Pending
+ORD00232,2025-06-03,Rahul,Accessories,East,Store,6,15139.8,0.05,86296.86,59864.38,Debit Card,Pending
+ORD00233,2025-06-16,Sneha,Home Appliances,South,Mobile App,7,7115.46,0.15,42336.99,27921.44,Net Banking,Completed
+ORD00234,2025-08-25,Priya,Accessories,West,Online,4,11045.61,0.1,39764.2,31786.89,Cash,Pending
+ORD00235,2025-05-10,Ananya,Home Appliances,West,Mobile App,3,17923.62,0.15,45705.23,26152.05,Net Banking,Returned
+ORD00236,2025-10-06,Priya,Electronics,South,Mobile App,1,19799.41,0.1,17819.47,13551.53,Cash,Pending
+ORD00237,2025-11-28,Neha,Accessories,North,Online,1,14146.02,0.15,12024.12,10100.78,Credit Card,Cancelled
+ORD00238,2025-04-24,Rahul,Office Supplies,North,Store,4,11227.6,0.15,38173.84,26298.68,Credit Card,Cancelled
+ORD00239,2025-08-01,Neha,Accessories,South,Mobile App,2,3034.32,0.05,5765.21,3773.32,Debit Card,Cancelled
+ORD00240,2025-09-01,Vikram,Electronics,North,Online,2,11038.42,0.15,18765.31,12116.25,Cash,Completed
+ORD00241,2025-12-13,Rahul,Office Supplies,West,Store,3,23258.57,0.05,66286.92,46718.9,UPI,Returned
+ORD00242,2025-11-19,Sneha,Accessories,west,Store,3,4781.72,0.15,12193.39,8153.41,Credit Card,Pending
+ORD00243,2025-04-16,Rahul,Office Supplies,East,Online,5,18845.29,0.0,94226.45,68144.98,Debit Card,Completed
+ORD00244,2025-05-15,Rohan,Home Appliances,North,Store,8,13263.72,0.1,95498.78,69627.32,Cash,Returned
+ORD00245,2025-11-13,Priya,Furniture,East,Online,3,20371.4,0.1,55002.78,45410.56,UPI,Cancelled
+ORD00246,2025-03-01,Rohan,Home Appliances,South,Mobile App,3,9426.66,0.05,26865.98,18893.43,Debit Card,Returned
+ORD00247,2025-04-06,Ananya,Office Supplies,South,Online,8,15942.22,0.05,121160.87,86808.59,Cash,Returned
+ORD00248,2025-11-14,Sneha,Accessories,West,Store,1,21658.23,0.0,21658.23,15060.76,Debit Card,Returned
+ORD00249,2025-12-30,Sneha,Office Supplies,North,Store,8,12294.18,0.0,98353.44,70777.04,UPI,Cancelled
+ORD00250,2025-03-28,Priya,Home Appliances,North,Store,8,14206.41,0.15,96603.59,69063.63,Net Banking,Cancelled
+ORD00251,2025-10-05,Rohan,Electronics,South,Store,1,19036.1,0.15,16180.68,11551.48,Credit Card,Returned
+ORD00252,2025-05-15,Priya,Furniture,South,Mobile App,6,21575.66,0.0,129453.96,88251.48,Net Banking,Cancelled
+ORD00253,2025-12-30,Sneha,Electronics,East,Mobile App,7,4274.64,0.05,28426.36,22327.62,Cash,Pending
+ORD00254,2025-06-15,Priya,Furniture,West,Online,5,7339.93,0.1,33029.69,27603.55,Cash,Pending
+ORD00255,2025-12-26,Rohan,Accessories,South,Mobile App,3,6354.48,0.1,17157.1,13700.71,Cash,Returned
+ORD00256,2025-07-12,Vikram,Office Supplies,West,Store,8,2026.58,0.0,16212.64,10876.33,Cash,Completed
+ORD00257,2025-02-17,Rohan,Furniture,West,Online,8,15925.79,0.1,114665.69,92309.54,Debit Card,Cancelled
+ORD00258,2025-06-15,,Office Supplies,North,Online,5,8543.22,0.2,34172.88,20133.92,Credit Card,Returned
+ORD00259,2025-01-09,Aarav,Accessories,South,Mobile App,2,23246.41,0.05,44168.18,30139.74,UPI,Returned 
+ORD00260,2025-03-23,Neha,Furniture,North,Store,5,2469.5,0.1,11112.75,6946.77,Cash,Pending
+ORD00261,2025-08-08,Priya,Furniture,South,Mobile App,2,17636.9,0.0,35273.8,21659.04,Debit Card,Completed
+ORD00262,2025-01-05,Ananya,Electronics,South,Store,6,20455.16,0.15,104321.32,79097.4,Credit Card,Completed
+ORD00263,2025-02-22,Rahul,Furniture,North,Mobile App,6,9283.91,0.1,50133.11,29635.63,Net Banking,Completed
+ORD00264,2025-11-09,Rahul,Accessories,West,Online,3,11086.47,0.05,31596.44,23331.57,Credit Card,Completed
+ORD00265,2025-03-13,Rohan,Office Supplies,South,Online,2,14800.91,0.15,25161.55,16492.41,Cash,Completed
+ORD00266,2025-05-08,,Furniture,South,Mobile App,5,19507.4,0.0,97537.0,78455.61,Debit Card,Cancelled
+ORD00267,2025-11-27,Priya,Furniture,West,Mobile App,1,19627.47,0.05,18646.1,13023.67,Net Banking,Completed
+ORD00268,2025-09-28,Rohan,Office Supplies,South,Store,1,24674.03,0.1,22206.63,13092.91,Credit Card,Completed
+ORD00269,2025-10-28,Aarav,Accessories,East,Mobile App,2,492.77,0.05,936.26,526.13,Net Banking,Returned
+ORD00270,2025-08-05,Rahul,Office Supplies,,Store,7,2198.33,0.2,12310.65,8756.52,Credit Card,Pending
+ORD00271,2025-03-21,Rohan,Furniture,North,Online,6,9859.68,0.0,59158.08,38041.65,Credit Card,Returned
+ORD00272,2025-03-01,Rahul,Electronics,North,Mobile App,8,15365.58,0.0,122924.64,79014.36,UPI,Completed
+ORD00273,2025-03-25,Vikram,Furniture,East,Online,8,23832.45,0.2,152527.68,107557.46,Cash,Completed
+ORD00274,2025-01-16,Vikram,Home Appliances,North,Store,6,20206.63,0.1,109115.8,77161.92,Debit Card,Cancelled
+ORD00275,2025-01-29,Vikram,Electronics,North,Online,8,21505.09,0.05,163438.68,107919.6,Net Banking,Completed
+ORD00276,2025-01-23,Rahul,Furniture,North,Mobile App,1,6227.1,0.15,5293.03,3489.13,Debit Card,Pending
+ORD00277,2025-06-14,Priya,Home Appliances,East,Online,4,10493.98,0.1,37778.33,23852.38,Net Banking,Completed
+ORD00278,2025-04-02,Priya,Accessories,East,Store,4,20137.8,0.0,80551.2,67358.83,Cash,Completed
+ORD00279,2025-10-11,Vikram,Home Appliances,South,Store,8,348.03,0.05,2645.03,1686.15,Cash,Returned
+ORD00280,2025-04-11,Neha,Electronics,East,Online,4,3891.57,0.15,13231.34,7372.15,Debit Card,Cancelled
+ORD00281,2025-02-23,Aarav,Furniture,East,Online,4,13315.89,0.05,50600.38,34203.06,Credit Card,Pending
+ORD00282,2025-09-24,Priya,Home Appliances,North,Mobile App,7,17566.05,0.1,110666.11,76087.09,UPI,Returned
+ORD00283,2025-02-08,Vikram,Office Supplies,West,Mobile App,1,10959.32,0.05,10411.35,6465.78,Cash,Cancelled
+ORD00284,2025-08-20,Priya,Furniture,North,Online,5,5955.24,0.05,28287.39,16713.14,Debit Card,Returned
+ORD00285,2025-06-10,Sneha,Accessories,East,Store,7,3150.31,0.1,19846.95,16659.34,Cash,Completed
+ORD00286,2025-02-16,Aarav,Furniture,East,Online,3,20218.78,0.1,54590.71,43558.8,Credit Card,Pending
+ORD00287,2025-07-02,Rahul,Electronics,West,Store,7,12909.47,0.1,81329.66,51079.1,Net Banking,Pending
+ORD00288,2025-02-18,Aarav,Furniture,South,Online,8,2682.4,0.05,20386.24,11955.22,Debit Card,Cancelled
+ORD00289,2025-12-18,Priya,Electronics,North,Online,2,14620.75,0.1,26317.35,21717.83,Debit Card,Pending
+ORD00290,2025-02-17,Rohan,Accessories,West,Online,6,3194.81,0.15,16293.53,9208.96,Debit Card,Returned
+ORD00291,2025-03-30,Ananya,Furniture,North,Mobile App,6,5485.7,0.05,31268.49,19777.15,Net Banking,Pending
+ORD00292,2025-11-28,Priya,Office Supplies,West,Online,5,12547.46,0.2,50189.84,34817.16,Debit Card,Pending
+ORD00293,2025-11-26,,Office Supplies,West,Mobile App,4,15824.25,0.2,50637.6,39925.41,,Cancelled
+ORD00294,2025-10-17,Sneha,Electronics,East,Online,6,9801.27,0.05,55867.24,31163.8,Debit Card,Cancelled
+ORD00295,2025-10-27,Sneha,Office Supplies,North,Online,4,24353.4,0.0,97413.6,60820.87,Net Banking,Returned
+ORD00296,2025-07-01,Neha,Home Appliances,North,Mobile App,3,4526.09,0.2,10862.62,7010.75,Cash,Pending
+ORD00297,2025-10-16,Rahul,Accessories,North,Online,4,20941.92,0.15,71202.53,50741.58,Credit Card,Pending
+ORD00298,2025-11-05,Sneha,Furniture,East,Mobile App,4,645.21,0.15,2193.71,1206.99,,Cancelled
+ORD00299,2025-01-31,Neha,Electronics,East,Mobile App,1,3820.64,0.05,3629.61,2839.48,Debit Card,Completed
+ORD00300,2025-06-22,Rohan,Accessories,East,Online,5,8166.69,0.05,38791.78,29858.25,Net Banking,Cancelled
+ORD00301,2025-04-25,Aarav,Home Appliances,West,Mobile App,3,9552.85,0.1,25792.7,15171.38,Credit Card,Pending
+ORD00302,2025-11-05,Priya,Accessories,South,Store,6,23037.8,0.2,110581.44,68147.87,Credit Card,Pending
+ORD00303,2025-06-27,Neha,Accessories,North,Store,6,4322.0,0.0,25932.0,20654.8,UPI,Pending
+ORD00304,2025-12-21,Aarav,Accessories,West,Mobile App,2,8859.46,0.0,17718.92,13574.89,Debit Card,Pending
+ORD00305,2025-07-31,Priya,Accessories,South,Online,8,22062.0,0.1,158846.4,113385.7,Debit Card,Completed
+ORD00306,2025-01-18,Priya,Office Supplies,South,Store,5,648.94,0.1,2920.23,2439.85,UPI,Completed
+ORD00307,2025-10-08,Aarav,Accessories,South,Mobile App,2,8548.07,0.2,13676.91,11187.27,Debit Card,Pending
+ORD00308,2025-01-28,Vikram,Office Supplies,East,Online,2,8377.7,0.05,15917.63,10709.13,Credit Card,Completed
+ORD00309,2025-07-21,Priya,Office Supplies,West,Online,8,3966.71,0.1,28560.31,15740.86,Credit Card,Completed
+ORD00310,2025-04-16,Priya,Office Supplies,West,Store,3,16009.04,0.0,48027.12,33238.19,Debit Card,Cancelled
+ORD00311,2025-02-16,Ananya,Electronics,East,Store,7,4744.3,0.15,28228.58,18654.02,Debit Card,Cancelled
+ORD00312,2025-04-26,Priya,Electronics,East,Mobile App,5,14171.53,0.05,67314.77,52214.08,Debit Card,Pending
+ORD00313,2025-10-11,Ananya,Home Appliances,South,Store,1,21043.81,0.2,16835.05,11373.59,Cash,Completed
+ORD00314,2025-07-22,Rahul,Electronics,West,Online,1,12627.22,0.2,10101.78,7981.77,UPI,Pending
+ORD00315,2025-04-09,Rohan,Furniture,South,Mobile App,3,1210.5,0.0,3631.5,3074.01,Cash,Cancelled
+ORD00316,2025-02-04,Vikram,Home Appliances,West,Online,2,9794.26,0.15,16650.24,11915.18,Net Banking,Returned
+ORD00317,2025-02-27,Priya,Electronics,North,Store,7,3868.61,0.2,21664.22,15736.46,Net Banking,Cancelled
+ORD00318,2025-07-30,Ananya,Electronics,South,Store,5,9668.63,0.15,41091.68,29652.04,Debit Card,Pending
+ORD00319,2025-11-13,Aarav,Accessories,East,Store,7,1113.75,0.1,7016.62,5312.66,Credit Card,Cancelled
+ORD00320,2025-06-05,Priya,Furniture,South,Store,5,7116.61,0.15,30245.59,24422.42,Debit Card,Cancelled
+ORD00321,2025-05-18,Sneha,Accessories,West,Mobile App,7,15183.73,0.0,106286.11,64449.85,Cash,Completed
+ORD00322,2025-09-21,Aarav,Furniture,South,Online,3,1780.58,0.2,4273.39,2867.51,Credit Card,Pending
+ORD00323,2025-01-17,Vikram,Office Supplies,West,Mobile App,8,1406.4,0.1,10126.08,7709.9,Debit Card,Completed
+ORD00324,2025-12-15,Rahul,Accessories,East,Store,1,6162.16,0.15,5237.84,3814.26,UPI,Cancelled
+ORD00325,2025-12-19,Sneha,Furniture,South,Mobile App,2,7233.97,0.15,12297.75,6946.94,UPI,Cancelled
+ORD00326,2025-11-30,Rahul,Furniture,North,Online,7,12905.04,0.0,90335.28,62532.72,Cash,Cancelled
+ORD00327,2025-12-31,Ananya,Office Supplies,South,Store,5,10681.6,0.15,45396.8,36566.03,Cash,Returned
+ORD00328,2025-10-27,Vikram,Office Supplies,North,Store,2,332.59,0.1,598.66,430.1,Credit Card,Cancelled
+ORD00329,2025-05-22,Vikram,Furniture,South,Mobile App,6,21558.07,0.1,116413.58,86941.84,UPI,Completed
+ORD00330,2025-11-04,Ananya,Office Supplies,East,Store,7,16564.18,0.05,110151.8,84418.68,Debit Card,Returned
+ORD00331,2025-01-19,Ananya,Office Supplies,East,Online,4,8677.7,0.05,32975.26,24925.85,Net Banking,Pending
+ORD00332,2025-05-31,Rahul,Office Supplies,North,Online,2,11848.9,,21328.02,16370.45,Cash,Pending
+ORD00333,2025-06-07,Vikram,Accessories,North,Store,7,19734.05,0.1,124324.52,82241.26,Credit Card,Completed
+ORD00334,2025-08-30,Rohan,Electronics,South,Online,4,12586.86,0.15,42795.32,30339.81,UPI,Cancelled
+ORD00335,2025-07-29,Ananya,Office Supplies,South,Store,8,3709.12,0.05,28189.31,22091.46,Credit Card,Completed
+ORD00336,2025-08-20,Rahul,Accessories,North,Online,5,5353.15,0.05,25427.46,18381.1,Net Banking,Returned
+ORD00337,2025-11-21,Aarav,Home Appliances,South,Mobile App,7,10174.33,0.15,60537.26,40256.97,Cash,Completed
+ORD00338,2025-06-14,Sneha,Furniture,East,Store,4,595.22,0.0,2380.88,1757.1,UPI,Completed
+ORD00339,2025-07-16,Vikram,Accessories,East,Store,5,4300.45,0.0,21502.25,13749.84,UPI,Cancelled
+ORD00340,2025-09-08,Rohan,Electronics,South,Online,6,18790.37,0.05,107105.11,89371.21,UPI,Pending
+ORD00341,2025-01-12,Vikram,Home Appliances,North,Mobile App,3,3210.58,0.0,9631.74,6381.58,Credit Card,Completed
+ORD00342,2025-12-01,Rohan,Electronics,East,Store,1,1348.64,0.0,1348.64,910.38,UPI,Pending
+ORD00343,2025-12-22,Vikram,Home Appliances,South,Store,1,7632.74,0.0,7632.74,5714.98,Credit Card,Completed
+ORD00344,2025-05-25,Sneha,Office Supplies,South,Store,2,19651.29,0.15,33407.19,20364.82,Debit Card,Cancelled
+ORD00345,2025-03-24,Ananya,Office Supplies,South,Online,1,13771.25,0.05,13082.69,9896.55,Credit Card,Completed
+ORD00346,2025-02-26,Priya,Electronics,East,Mobile App,8,3856.24,0.0,30849.92,24181.95,UPI,Returned
+ORD00347,2025-06-01,Aarav,Office Supplies,East,Mobile App,5,11687.29,0.0,58436.45,46395.83,Cash,Returned
+ORD00348,2025-03-01,Rahul,Furniture,East,Store,2,21303.46,0.0,42606.92,23557.44,Debit Card,Cancelled
+ORD00349,2025-02-17,Rohan,Accessories,East,Store,6,20401.86,0.05,116290.6,67931.11,Debit Card,Returned
+ORD00350,2025-11-29,Rahul,Electronics,West,Mobile App,3,2959.46,0.0,8878.38,7497.53,Debit Card,Returned
+ORD00351,2025-04-03,Rahul,Accessories,West,Online,7,19512.23,0.2,109268.49,61042.28,Debit Card,Returned
+ORD00352,2025-01-24,Sneha,Office Supplies,North,Store,2,6651.08,0.1,11971.94,6628.96,UPI,Returned
+ORD00353,2025-06-27,Aarav,Electronics,South,Mobile App,7,3844.06,0.2,21526.74,17600.66,Debit Card,Returned
+ORD00354,2025-03-26,Vikram,Electronics,South,Mobile App,2,18823.04,0.1,33881.47,21083.34,Debit Card,Returned
+ORD00355,2025-05-01,Ananya,Accessories,East,Online,2,11558.5,0.2,18493.6,12657.57,Debit Card,Completed
+ORD00356,2025-02-22,Priya,Home Appliances,East,Mobile App,7,10396.61,0.2,58221.02,41612.29,Net Banking,Pending
+ORD00357,2025-12-02,Sneha,Accessories,East,Mobile App,8,23766.32,0.1,171117.5,136482.17,Net Banking,Returned
+ORD00358,2025-12-03,Sneha,Electronics,East,Store,6,17940.45,0.0,107642.7,62350.0,Cash,Cancelled
+ORD00359,2025-12-26,Rohan,Electronics,East,Mobile App,2,1287.59,0.05,2446.42,1706.93,UPI,Pending
+ORD00360,2025-03-03,Priya,Accessories,North,Mobile App,7,5507.4,0.05,36624.21,28018.85,Net Banking,Completed
+ORD00361,2025-08-19,Ananya,Electronics,North,Mobile App,8,16512.65,0.2,105680.96,62393.07,Debit Card,Returned
+ORD00362,2025-09-18,Rahul,Electronics,West,Mobile App,3,17341.67,0.05,49423.76,38014.21,Net Banking,Cancelled
+ORD00363,2025-09-16,Sneha,Office Supplies,West,Store,7,10553.82,0.2,59101.39,48745.24,Cash,Returned
+ORD00364,2025-03-10,Neha,Home Appliances,South,Online,3,10406.72,0.2,24976.13,15976.58,UPI,Cancelled
+ORD00365,2025-12-18,Rahul,Home Appliances,East,Mobile App,6,23041.62,0.05,131337.23,110901.24,Credit Card,Cancelled
+ORD00366,2025-10-15,Vikram,Accessories,North,Mobile App,8,14632.74,0.15,99502.63,74853.15,Credit Card,Completed
+ORD00367,2025-07-15,Rahul,Office Supplies,East,Online,3,1468.67,0.0,4406.01,2687.54,Credit Card,Cancelled
+ORD00368,2025-04-15,Sneha,Home Appliances,West,Online,1,9063.26,0.15,7703.77,4473.92,Net Banking,Cancelled
+ORD00369,2025-12-21,Neha,Home Appliances,North,Online,1,23173.15,0.15,19697.18,13295.0,Cash,Pending
+ORD00370,2025-11-14,Sneha,Furniture,East,Store,8,20775.09,0.1,149580.65,116154.21,UPI,Completed
+ORD00371,2025-04-06,Rohan,Office Supplies,East,Online,3,18416.73,0.0,55250.19,36639.69,UPI,Cancelled
+ORD00372,2025-01-03,Neha,Home Appliances,North,Mobile App,6,11738.33,0.05,66908.48,37601.37,Net Banking,Cancelled
+ORD00373,2025-09-09,Rahul,Home Appliances,North,Mobile App,6,1961.09,0.1,10589.89,7493.6,UPI,Returned
+ORD00374,2025-10-06,Neha,Office Supplies,East,Store,7,2434.85,0.05,16191.75,13196.58,,Returned
+ORD00375,2025-10-15,Sneha,Electronics,East,Store,1,3000.84,0.1,2700.76,1846.51,Credit Card,Returned
+ORD00376,2025-05-12,Neha,Home Appliances,West,Store,5,763.94,0.2,3055.76,2434.32,Credit Card,Cancelled
+ORD00377,2025-11-30,Rahul,Home Appliances,North,Mobile App,4,8109.77,0.0,32439.08,27069.23,Credit Card,Pending
+ORD00378,2025-12-10,Sneha,Home Appliances,West,Mobile App,4,21644.03,0.15,73589.7,58923.24,Credit Card,Pending
+ORD00379,2025-01-13,Aarav,Furniture,,Mobile App,8,17964.18,0.0,143713.44,82815.77,Credit Card,Pending
+ORD00380,2025-05-13,Aarav,Accessories,North,Mobile App,7,9792.61,0.15,58266.03,39615.51,Credit Card,Completed
+ORD00381,2025-10-27,Priya,Office Supplies,East,Mobile App,1,17566.92,0.0,17566.92,11546.91,Credit Card,Cancelled
+ORD00382,2025-08-13,Sneha, Furniture ,West,Mobile App,7,9968.56,0.0,69779.92,48301.4,Cash,Pending
+ORD00383,2025-06-02,Rahul,Electronics,North,Online,6,23941.18,0.0,143647.08,102859.53,Net Banking,Returned
+ORD00384,2025-10-03,Rahul,Furniture,South,Online,2,7721.58,0.1,13898.84,8527.23,Net Banking,Cancelled
+ORD00385,2025-04-10,Ananya,Home Appliances,north,Store,2,4656.75,0.2,7450.8,6002.93,Credit Card,Cancelled
+ORD00386,2025-02-20,Neha,Furniture,South,Online,4,18180.89,0.15,61815.03,51644.11,Cash,Completed
+ORD00387,2025-04-10,Vikram,Home Appliances,South,Mobile App,6,12223.65,0.1,66007.71,48509.25,Net Banking,Cancelled
+ORD00388,2025-06-11,Sneha,Accessories,East,Store,7,4340.69,0.1,27346.35,17060.09,UPI,Cancelled
+ORD00389,2025-09-03,Priya,Furniture,North,Store,8,11217.15,0.1,80763.48,56218.77,UPI,Pending
+ORD00390,2025-05-15,Aarav,Home Appliances,West,Mobile App,2,18226.52,0.0,36453.04,29340.18,UPI,Completed
+ORD00391,2025-10-10,Rahul,Office Supplies,West,Online,5,13655.21,0.2,54620.84,37777.48,Net Banking,Cancelled
+ORD00392,2025-03-10,Aarav,Furniture,South,Mobile App,8,12602.91,0.0,100823.28,67454.36,UPI,Returned
+ORD00393,2025-03-23,Rahul,Accessories,East,Online,3,14223.98,0.2,34137.55,25528.88,UPI,Returned
+ORD00394,2025-04-29,Sneha,Home Appliances,East,Store,2,6719.27,0.05,12766.61,7185.59,Debit Card,Returned
+ORD00395,2025-01-24,Vikram,Office Supplies,South,Store,1,24517.66,0.1,22065.89,12819.57,Debit Card,Cancelled
+ORD00396,2025-10-28,Sneha,Home Appliances,West,Store,2,12989.07,0.15,22081.42,18588.19,Cash,Returned
+ORD00397,2025-09-04,Sneha,Electronics,East,Online,1,12620.65,0.05,11989.62,8176.56,UPI,Pending
+ORD00398,2025-03-22,Rohan,Office Supplies,North,Store,6,15110.2,0.0,90661.2,67844.76,Debit Card,Returned
+ORD00399,2025-04-18,Aarav,Furniture,South,Online,3,16234.39,0.15,41397.69,23047.49,Net Banking,Completed
+ORD00400,2025-10-21,Rohan,Home Appliances,North,Mobile App,3,1539.41,0.1,4156.41,3436.25,Cash,Completed
+ORD00401,2025-04-21,Rahul,Furniture,West,Mobile App,8,15222.17,0.15,103510.76,83863.46,UPI,Pending
+ORD00402,2025-11-16,,Furniture,West,Store,5,4317.88,0.1,19430.46,16063.27,UPI,Completed
+ORD00403,2025-01-09,Rahul,Home Appliances,North,Online,4,13139.38,0.2,42046.02,31757.79,Debit Card,Completed
+ORD00404,2025-09-30,Aarav,Accessories,West,Store,2,2465.77,0.05,4684.96,3844.46,Credit Card,Returned
+ORD00405,2025-04-28,Priya,Accessories,South,Store,8,19770.46,0.15,134439.13,88078.51,Debit Card,Pending
+ORD00406,2025-02-12,Sneha,Electronics,North,Mobile App,5,15017.56,0.2,60070.24,40402.88,,Completed
+ORD00407,2025-09-24,Neha,Accessories,East,Online,1,9469.49,0.05,8996.02,6803.96,UPI,Returned
+ORD00408,2025-11-30,Neha,Home Appliances,East,Mobile App,5,6643.38,0.2,26573.52,17992.09,Debit Card,Pending
+ORD00409,2025-07-31,Vikram,Office Supplies,East,Mobile App,8,4591.18,0.2,29383.55,21052.53,Debit Card,Pending
+ORD00410,2025-12-04,Rahul,Electronics,South,Mobile App,2,18733.18,0.15,31846.41,24997.29,Debit Card,Cancelled
+ORD00411,2025-10-09,Rahul,Accessories,West,Online,1,4144.34,0.0,4144.34,3279.46,Credit Card,Cancelled
+ORD00412,2025-04-24,Rohan,Home Appliances,East,Mobile App,6,2138.99,0.0,12833.94,9848.1,Net Banking,Completed
+ORD00413,2025-03-31,Vikram,Furniture,North,Mobile App,8,11058.46,0.05,84044.3,67669.97,Net Banking,Pending
+ORD00414,2025-11-11,Aarav,Furniture,North,Store,3,16899.51,0.1,45628.68,28370.86,Debit Card,Cancelled
+ORD00415,2025-12-09,Priya,Electronics,East,Mobile App,7,10225.46,0.05,67999.31,47961.46,Net Banking,Cancelled
+ORD00416,2025-06-27,Rohan,Home Appliances,North,Store,5,5773.44,0.05,27423.84,18824.48,UPI,Returned
+ORD00417,2025-09-17,Priya,Home Appliances,East,Mobile App,2,14031.97,0.2,22451.15,14330.02,Net Banking,Cancelled
+ORD00418,2025-12-22,Sneha,Office Supplies,West,Mobile App,8,24156.48,0.2,154601.47,107461.78,Debit Card,Completed
+ORD00419,2025-09-04,Sneha,Furniture,East,Store,2,6556.82,0.15,11146.59,8249.57,Cash,Completed
+ORD00420,2025-12-25,Neha,Electronics,South,Store,5,6319.2,0.0,31596.0,21159.18,Cash,Cancelled
+ORD00421,2025-04-22,Sneha,Furniture,South,Store,5,4692.19,0.05,22287.9,15594.84,UPI,Pending
+ORD00422,2025-04-14,Priya,Electronics,North,Mobile App,4,20932.92,0.1,75358.51,44973.86,Debit Card,Completed
+ORD00423,2025-10-05,Ananya,Home Appliances,East,Store,1,21223.06,0.1,19100.75,14061.98,UPI,Cancelled
+ORD00424,2025-07-23,Rohan,Accessories,North,Mobile App,4,18791.71,0.05,71408.5,40434.67,Cash,Returned
+ORD00425,2025-12-18,Ananya,Office Supplies,North,Online,3,11511.32,0.0,34533.96,26227.62,UPI,Returned
+ORD00426,2025-10-25,Rahul,Home Appliances,East,Online,2,8237.09,0.2,13179.34,10656.19,Cash,Returned
+ORD00427,2025-11-10,Rohan,Office Supplies,East,Store,6,9243.22,0.15,47140.42,31922.68,Cash,Returned
+ORD00428,2025-04-03,Vikram,Furniture,West,Store,3,24484.92,0.05,69782.02,55424.87,UPI,Pending
+ORD00429,2025-03-18,Rahul,Home Appliances,East,Store,8,20170.86,0.05,153298.54,103699.75,Cash,Cancelled
+ORD00430,2025-10-15,Vikram,Accessories,North,Store,1,10050.29,0.05,9547.78,5423.24,Cash,Cancelled
+ORD00431,2025-07-04,Rohan,Electronics,East,Mobile App,6,14074.7,0.1,76003.38,49648.61,Net Banking,Pending
+ORD00432,2025-10-23,Ananya,Accessories,North,Store,3,24487.42,0.1,66116.03,43407.34,Net Banking,Cancelled
+ORD00433,2025-08-26,Rohan,Electronics,North,Online,3,21726.2,0.1,58660.74,39686.63,Cash,Pending
+ORD00434,2025-06-10,Rohan,Office Supplies,West,Store,6,16377.38,0.1,88437.85,64702.5,Net Banking,Returned
+ORD00435,2025-07-31,Sneha,Office Supplies,North,Online,3,4719.57,0.0,14158.71,8318.41,UPI,Returned
+ORD00436,2025-02-22,Aarav,Accessories,North,Online,2,1735.24,0.15,2949.91,2107.8,Cash,Pending
+ORD00437,2025-02-13,Ananya,Furniture,South,Mobile App,7,7837.86,0.05,52121.77,40200.37,UPI,Completed
+ORD00438,2025-01-18,Ananya,Home Appliances,East,Mobile App,6,21530.17,0.1,116262.92,94088.37,Debit Card,Pending
+ORD00439,2025-12-24,Rohan,Home Appliances,East,Store,3,14832.15,0.15,37821.98,27962.33,Debit Card,Pending
+ORD00440,2025-02-15,Vikram,Electronics,north,Mobile App,8,7800.52,0.15,53043.54,33308.27,UPI,Cancelled
+ORD00441,2025-05-27,Ananya,Office Supplies,North,Store,8,13447.21,0.15,91441.03,76269.8,Cash,Pending
+ORD00442,2025-01-04,Sneha,Furniture,West,Store,6,4835.99,0.2,23212.75,15810.94,UPI,Cancelled
+ORD00443,2025-02-10,Vikram,Office Supplies,East,Store,7,15689.28,0.2,87859.97,68474.68,UPI,Completed
+ORD00444,2025-04-04,Vikram,Home Appliances,West,Online,3,7346.44,0.15,18733.42,13775.04,Cash,Completed
+ORD00445,2025-03-19,Priya,Office Supplies,East,Online,1,24247.45,0.0,24247.45,14688.65,Debit Card,Completed
+ORD00446,2025-04-30,Rohan,Office Supplies,West,Store,2,3894.49,0.15,6620.63,4072.72,Debit Card,Completed
+ORD00447,2025-06-19,Rohan,Electronics,West,Online,2,21112.13,0.05,40113.05,22736.54,UPI,Cancelled
+ORD00448,2025-07-15,Ananya,Furniture,North,Online,1,3180.74,0.05,3021.7,2010.76,Debit Card,Completed
+ORD00449,2025-09-24,Rahul,Electronics,North,Store,4,11899.71,0.1,42838.96,35593.37,Debit Card,Cancelled
+ORD00450,2025-04-12,,Accessories,East,Online,6,22204.86,0.05,126567.7,106567.75,UPI,Cancelled
+ORD00451,2025-10-27,Aarav,Home Appliances,West,Mobile App,2,9985.84,0.05,18973.1,10486.03,Net Banking,Pending
+ORD00452,2025-07-10,Neha,Electronics,North,Store,2,6330.75,0.15,10762.27,6214.35,UPI,Completed
+ORD00453,2025-03-06,Neha,Accessories,South,Online,8,5931.96,0.2,37964.54,29861.71,Debit Card,Cancelled
+ORD00454,2025-03-10,Vikram,Home Appliances,West,Online,5,22481.78,0.15,95547.56,72806.07,Net Banking,Pending
+ORD00455,2025-10-06,Rahul,Electronics,South,Store,6,8193.47,0.15,41786.7,26434.16,Cash,Cancelled
+ORD00456,2025-10-05,Rahul,Electronics,East,Mobile App,6,11433.86,0.2,54882.53,36426.25,UPI,Cancelled
+ORD00457,2025-02-02,Rahul,Home Appliances,East,Store,7,4868.26,0.15,28966.15,22585.49,Debit Card,Cancelled
+ORD00458,2025-02-26,Rahul,Furniture,North,Online,2,13151.53,0.0,26303.06,14812.13,Credit Card,Returned
+ORD00459,2025-04-09,Vikram,Electronics,East,Online,2,940.66,0.15,1599.12,1195.14,Net Banking,Completed
+ORD00460,2025-01-07,Aarav,Office Supplies,West,Store,4,16445.37,0.0,65781.48,45416.7,Credit Card,Cancelled
+ORD00461,2025-09-28,Sneha,Home Appliances,North,Online,1,18397.36,0.1,16557.62,9493.82,UPI,Returned
+ORD00462,2025-04-08,,Home Appliances,West,Mobile App,4,13225.87,0.05,50258.31,36236.66,Credit Card,Cancelled
+ORD00463,2025-12-12,Rahul,Furniture,West,Mobile App,8,17608.38,0.15,119736.98,97567.34,Cash,Pending
+ORD00464,2025-10-01,,Office Supplies,West,Mobile App,8,23347.97,0.1,168105.38,120199.45,Debit Card,Cancelled
+ORD00465,2025-11-08,Vikram,Office Supplies,West,Store,4,14144.15,0.05,53747.77,35608.91,Debit Card,Completed
+ORD00466,2025-01-18,Vikram,Electronics,East,Online,5,14954.71,0.2,59818.84,35324.56,UPI,Cancelled
+ORD00467,2025-01-12,Rahul,Electronics,North,Store,5,22989.94,0.2,91959.76,65925.67,Cash,Pending
+ORD00468,2025-03-12,Vikram,Office Supplies,North,Mobile App,5,9272.01,0.2,37088.04,23178.43,Debit Card,Pending
+ORD00469,2025-02-09,Priya,Home Appliances,East,Online,6,19853.67,0.05,113165.92,78818.13,Net Banking,Returned
+ORD00470,2025-02-10,Rohan,Accessories,North,Online,1,23058.51,0.1,20752.66,13580.11,Net Banking,Completed
+ORD00471,2025-11-21,Rahul,Office Supplies,South,Online,7,1495.08,0.2,8372.45,4708.29,Credit Card,Returned
+ORD00472,2025-08-17,Rahul,Furniture,East,Online,2,5668.83,0.1,10203.89,8019.34,Debit Card,Completed
+ORD00473,2025-10-08,Rahul,Furniture,West,Mobile App,7,6674.57,0.15,39713.69,27821.3,UPI,Returned
+ORD00474,2025-07-22,Priya,Office Supplies,West,Store,4,14095.02,0.2,45104.06,28139.24,Net Banking,Completed
+ORD00475,2025-02-27,Neha,Home Appliances,North,Store,7,10674.98,0.1,67252.37,40832.07,UPI,Cancelled
+ORD00476,2025-11-12,Sneha,Furniture,East,Online,8,15636.08,0.15,106325.34,59910.42,Credit Card,Completed
+ORD00477,2025-01-28,Vikram,Electronics,East,Mobile App,4,23731.18,0.05,90178.48,73100.99,Credit Card,Cancelled
+ORD00478,2025-08-19,Sneha,Furniture,East,Mobile App,8,715.29,0.05,5436.2,4196.77,Debit Card,Pending
+ORD00479,2025-12-22,Rahul,Electronics,East,Online,1,9508.68,0.2,7606.94,4283.05,Net Banking,Cancelled
+ORD00480,2025-01-28,Vikram,Office Supplies,North,Online,8,16420.73,0.0,131365.84,74875.81,Cash,Returned
+ORD00481,2025-04-29,Ananya,Home Appliances,North,Online,7,12787.23,0.0,89510.61,73502.68,UPI,Returned
+ORD00482,2025-10-15,Ananya,Accessories,South,Online,1,1137.85,0.2,910.28,583.92,Cash,Cancelled
+ORD00483,2025-07-01,Aarav,Office Supplies,West,Online,5,6019.69,0.2,24078.76,15236.16,Net Banking,Cancelled
+ORD00484,2025-04-26,Priya,Accessories,South,Store,3,8643.39,0.15,22040.64,16466.11,UPI,Pending
+ORD00485,2025-08-07,Rahul,Furniture,South,Mobile App,5,22756.92,0.1,102406.14,70122.68,Net Banking,Pending
+ORD00486,2025-03-12,Rohan,Furniture,South,Store,5,17260.02,0.2,69040.08,56810.93,Credit Card,Completed
+ORD00487,2025-04-05,Neha,Accessories,West,Store,6,21012.13,0.05,119769.14,91997.53,Debit Card,Cancelled
+ORD00488,2025-03-19,Vikram,Home Appliances,South,Mobile App,4,2803.27,,10652.43,5942.56,UPI,Pending
+ORD00489,2025-12-18,Ananya,Office Supplies,South,Store,1,9077.64,0.15,7715.99,4554.18,Debit Card,Returned
+ORD00490,2025-03-12,Aarav,Office Supplies,West,Online,3,4952.51,0.0,14857.53,9992.83,UPI,Pending
+ORD00491,2025-02-03,Ananya,Office Supplies,West,Online,3,23188.51,0.15,59130.7,47904.07,Debit Card,Returned
+ORD00492,2025-01-22,Aarav,Home Appliances,North,Store,7,18046.99,0.15,107379.59,78757.72,Debit Card,Completed
+ORD00493,2025-05-06,Aarav,Furniture,East,Store,7,24598.19,0.0,172187.33,123511.74,Debit Card,Cancelled
+ORD00494,2025-05-27,Aarav,Home Appliances,South,Store,8,4287.19,0.1,30867.77,22655.1,Debit Card,Completed
+ORD00495,2025-09-14,Rahul,Accessories,West,Store,2,4617.32,0.2,7387.71,6141.79,Debit Card,Completed
+ORD00496,2025-04-02,Priya,Office Supplies,East,Mobile App,8,14819.34,0.05,112626.98,91764.47,UPI,Completed
+ORD00497,2025-02-16,Rohan,Home Appliances,South,Store,2,17699.73,0.1,31859.51,18338.08,Net Banking,Returned
+ORD00498,2025-01-23,Rahul,Furniture,South,Online,3,22819.48,0.2,54766.75,44437.28,Credit Card,Returned
+ORD00499,2025-06-07,Rahul,Electronics,South,Online,5,18294.52,0.15,77751.71,49499.39,Credit Card,Cancelled
+ORD00500,2025-01-07,Aarav,Home Appliances,West,Online,8,12516.05,0.15,85109.14,60687.1,UPI,Returned
+ORD00501,2025-08-21,Sneha,Home Appliances,East,Mobile App,7,11130.6,0.2,62331.36,45503.8,Net Banking,Pending
+ORD00502,2025-01-26,Aarav,Home Appliances,East,Store,3,3834.17,0.1,10352.26,5807.79,Credit Card,Completed
+ORD00503,2025-02-25,Rahul,Accessories,East,Online,7,24844.32,0.05,165214.73,124179.88,Credit Card,Cancelled
+ORD00504,2025-06-15,Priya,Office Supplies,West,Online,6,22453.61,0.0,134721.66,104750.48,Credit Card,Cancelled
+ORD00505,2025-06-18,Priya,Home Appliances,North,Store,7,13187.46,0.05,87696.61,64335.65,Net Banking,Cancelled
+ORD00506,2025-08-07,Neha,Furniture,West,Mobile App,6,6602.55,0.2,31692.24,26891.1,Debit Card,Returned
+ORD00507,2025-04-03,Aarav,Accessories,North,Mobile App,4,17758.39,0.05,67481.88,37147.04,UPI,Returned
+ORD00508,2025-07-31,Sneha,Electronics,South,Mobile App,1,8444.74,0.2,6755.79,5349.32,Cash,Cancelled
+ORD00509,2025-02-04,Aarav,Electronics,East,Store,5,7612.06,0.2,30448.24,19705.41,Debit Card,Completed
+ORD00510,2025-03-31,Ananya,Accessories,North,Mobile App,4,8363.29,0.1,30107.84,24889.67,UPI,Returned
+ORD00511,2025-03-21,Ananya,Accessories,North,Mobile App,8,22317.65,0.2,142832.96,116948.57,Cash,Cancelled
+ORD00512,2025-10-12,,Electronics,South,Store,1,5325.32,0.1,4792.79,3785.64,Credit Card,Cancelled
+ORD00513,2025-07-12,Priya,Office Supplies,East,Mobile App,3,14338.89,0.15,36564.17,22165.7,Credit Card,Cancelled
+ORD00514,2025-07-31,Vikram,Furniture,,Online,2,12501.8,0.05,23753.42,15712.3,Credit Card,Cancelled
+ORD00515,2025-01-20,Ananya,Home Appliances,South,Online,4,22846.84,0.15,77679.26,54515.18,Cash,Returned
+ORD00516,2025-09-26,Priya,Home Appliances,South,Online,5,19422.0,0.05,92254.5,72036.41,Credit Card,Returned
+ORD00517,2025-07-18,Priya,Office Supplies,West,Online,2,252.13,0.0,504.26,381.28,Credit Card,Cancelled
+ORD00518,2025-01-12,Sneha,Office Supplies,East,Mobile App,5,16025.44,0.05,76120.84,49194.17,Cash,Returned
+ORD00519,2025-12-10,Aarav,Home Appliances,North,Online,2,6925.46,0.05,13158.37,8317.29,Net Banking,Cancelled
+ORD00520,2025-10-09,Rahul,Electronics,East,Mobile App,6,6885.64,0.1,37182.46,26854.1,Cash,Returned
+ORD00521,2025-01-26,Aarav,Electronics,West,Store,3,870.47,0.0,2611.41,1519.26,UPI,Returned
+ORD00522,2025-11-12,Priya,Accessories,South,Online,6,7914.15,0.05,45110.65,34458.65,Debit Card,Completed
+ORD00523,2025-08-22,Sneha, Furniture ,East,Store,5,17159.28,0.15,72926.94,50404.46,Debit Card,Pending
+ORD00524,2025-12-25,Aarav,Electronics,West,Online,6,19751.15,0.1,106656.21,73164.55,Cash,Returned
+ORD00525,2025-08-25,Rahul,Home Appliances,North,Store,3,7164.1,0.1,19343.07,14146.21,Credit Card,Cancelled
+ORD00526,2025-10-12,Rohan,Furniture,South,Mobile App,2,19841.91,0.2,31747.06,21851.26,UPI,Returned
+ORD00527,2025-07-16,Rohan,Home Appliances,East,Mobile App,2,8616.75,0.2,13786.8,9365.99,UPI,Pending
+ORD00528,2025-12-06,Priya,Home Appliances,West,Store,2,18523.27,0.2,29637.23,23740.15,Net Banking,Completed
+ORD00529,2025-08-16,Priya,Home Appliances,West,Store,3,7804.69,0.15,19901.96,11361.68,Debit Card,Completed
+ORD00530,2025-02-16,Aarav,Furniture,South,Store,4,20453.28,0.2,65450.5,53733.34,Net Banking,Cancelled
+ORD00531,2025-07-19,Vikram,Accessories,East,Online,8,5012.32,0.1,36088.7,23093.9,Net Banking,Completed
+ORD00532,2025-11-10,Aarav,Electronics,East,Online,7,21213.77,0.1,133646.75,76008.0,Cash,Completed
+ORD00533,2025-05-01,Rohan,Accessories,West,Store,7,17600.21,0.15,104721.25,77238.65,Net Banking,Pending
+ORD00534,2025-12-06,Neha,Accessories,South,Store,3,11950.55,0.05,34059.07,24407.63,UPI,Pending
+ORD00535,2025-01-06,Ananya,Accessories,South,Online,2,16262.47,0.05,30898.69,23680.81,UPI,Returned
+ORD00536,2025-08-22,Ananya,Accessories,East,Online,7,15637.72,0.15,93044.43,65393.9,UPI,Returned
+ORD00537,2025-11-06,Vikram,Accessories,East,Online,1,14511.77,0.05,13786.18,10527.66,Credit Card,Returned
+ORD00538,2025-12-27,Priya,Furniture,East,Store,6,2962.13,0.15,15106.86,12667.42,Net Banking,Completed
+ORD00539,2025-09-25,Vikram, Home Appliances ,north,Store,2,6244.0,0.0,12488.0,9431.21,Net Banking,Completed
+ORD00540,2025-08-29,Neha,Accessories,East,Store,8,12889.68,0.15,87649.82,63299.79,Cash,Pending
+ORD00541,2025-01-19,Ananya,Home Appliances,South,Mobile App,5,18215.25,0.2,72861.0,45766.39,Credit Card,Cancelled
+ORD00542,2025-11-16,Priya,Office Supplies,East,Online,1,7277.37,0.0,7277.37,4279.43,Net Banking,Cancelled
+ORD00543,2025-05-21,Rahul,Accessories,East,Online,5,502.94,0.0,2514.7,1838.61,Cash,Pending
+ORD00544,2025-09-06,Priya,Furniture,South,Store,3,20014.39,0.0,60043.17,39199.45,Debit Card,Returned
+ORD00545,2025-05-02,Neha,Electronics,East,Online,8,18191.08,0.05,138252.21,84784.14,Credit Card,Pending
+ORD00546,2025-08-26,Sneha,Accessories,West,Store,7,11984.36,0.15,71306.94,55180.53,Cash,Pending
+ORD00547,2025-09-29,Neha,Home Appliances,,Online,7,444.8,0.15,2646.56,1758.91,Net Banking,Cancelled
+ORD00548,2025-08-10,Vikram,Home Appliances,West,Store,5,8473.94,0.1,38132.73,30151.36,UPI,Pending
+ORD00549,2025-09-24,Aarav,Electronics,North,Online,6,16991.3,0.05,96850.41,62369.82,Debit Card,Completed
+ORD00550,2025-09-26,Vikram,Office Supplies,South,Online,2,17184.66,0.1,30932.39,19048.94,Credit Card,Completed
+ORD00551,2025-01-30,Priya,Electronics,South,Store,4,23769.65,0.0,95078.6,72490.07,Net Banking,Pending
+ORD00552,2025-02-26,Priya,Accessories,East,Store,3,6445.39,0.15,16435.74,12296.29,Cash,Cancelled
+ORD00553,2025-03-24,Neha,Electronics,East,Store,2,7040.59,0.0,14081.18,9361.73,UPI,Returned
+ORD00554,2025-02-05,Rahul,Accessories,North,Online,8,24488.64,0.05,186113.66,136438.17,Net Banking,Returned
+ORD00555,2025-04-22,Priya,Electronics,East,Store,2,22828.34,0.1,41091.01,23873.31,Credit Card,Returned
+ORD00556,2025-03-18,Neha,Accessories,North,Mobile App,1,23332.41,0.15,19832.55,12493.14,Debit Card,Returned
+ORD00557,2025-08-12,Aarav,Accessories,West,Online,7,21124.62,0.0,147872.34,105290.82,Net Banking,Cancelled
+ORD00558,2025-06-20,Neha,Electronics,West,Store,5,10105.28,0.0,50526.4,33327.55,UPI,Pending
+ORD00559,2025-10-11,Rohan,Electronics,East,Store,1,24192.7,0.05,22983.06,14701.37,Credit Card,Returned
+ORD00560,2025-04-08,Sneha,Accessories,West,Online,3,1037.1,0.0,3111.3,2383.01,Net Banking,Cancelled
+ORD00561,2025-09-13,Aarav,Office Supplies,North,Store,8,24169.37,0.0,193354.96,108493.94,Credit Card,Pending
+ORD00562,2025-12-01,Sneha,Electronics,North,Mobile App,8,23511.23,0.2,150471.87,89483.53,UPI,Returned
+ORD00563,2025-12-01,Rahul,Electronics,South,Mobile App,1,11859.81,0.2,9487.85,5348.69,Credit Card,Cancelled
+ORD00564,2025-02-19,Priya,Electronics,West,Mobile App,8,15338.96,0.2,98169.34,55876.74,Net Banking,Pending
+ORD00565,2025-02-02,Rahul,Office Supplies,South,Online,4,10741.35,0.15,36520.59,23638.7,Net Banking,Pending
+ORD00566,2025-06-21,Rahul,Office Supplies,South,Store,2,3150.53,0.05,5986.01,4652.72,UPI,Completed
+ORD00567,2025-03-10,Rahul,Electronics,West,Online,2,19807.65,0.2,31692.24,21006.86,Credit Card,Completed
+ORD00568,2025-04-02,Rohan,Accessories,South,Online,2,17712.52,0.2,28340.03,23127.58,UPI,Cancelled
+ORD00569,2025-09-25,Aarav,Home Appliances,South,Mobile App,8,10388.98,0.05,78956.25,57887.67,Debit Card,Completed
+ORD00570,2025-11-18,Sneha,Electronics,North,Mobile App,5,8794.16,0.0,43970.8,31540.83,Cash,Pending
+ORD00571,2025-08-26,Rahul,Accessories,West,Online,4,7019.2,0.05,26672.96,15571.77,UPI,Completed
+ORD00572,2025-01-28,Ananya,Electronics,North,Mobile App,6,7233.85,0.15,36892.64,23073.19,Credit Card,Pending
+ORD00573,2025-03-22,Sneha,Accessories,east,Store,1,12203.78,0.0,12203.78,6971.51,UPI,Cancelled
+ORD00574,2025-04-28,Rohan,Furniture,West,Online,2,8254.39,0.0,16508.78,10254.19,Credit Card,Returned
+ORD00575,2025-10-27,Ananya,Furniture,West,Store,8,1500.33,0.15,10202.24,6054.85,UPI,Returned
+ORD00576,2025-04-10,Aarav,Home Appliances,North,Store,6,24392.56,0.05,139037.59,90481.13,UPI,Completed
+ORD00577,2025-08-27,Vikram,Home Appliances,South,Mobile App,8,10542.86,0.1,75908.59,46756.36,Net Banking,Pending
+ORD00578,2025-10-23,Sneha,Home Appliances,West,Store,4,2298.89,0.2,7356.45,5125.71,Cash,Completed
+ORD00579,2025-08-08,,Home Appliances,North,Store,4,6308.61,0.15,21449.27,15525.84,Credit Card,Completed
+ORD00580,2025-08-29,Priya,Accessories,West,Online,1,10728.59,0.15,9119.3,6326.8,Credit Card,Completed
+ORD00581,2025-12-21,Sneha,Electronics,North,Store,7,23755.86,0.05,157976.47,103872.96,Cash,Pending
+ORD00582,2025-12-27,Ananya,Accessories,South,Mobile App,8,21469.36,0.2,137403.9,76578.5,Debit Card,Pending
+ORD00583,2025-07-09,Priya,Accessories,East,Mobile App,8,17641.97,0.0,141135.76,114053.9,Credit Card,Cancelled
+ORD00584,2025-08-07,Sneha,Electronics,East,Mobile App,5,17496.67,0.2,69986.68,49881.64,Credit Card,Cancelled
+ORD00585,2025-01-27,Neha,Office Supplies,South,Mobile App,2,9666.43,0.15,16432.93,12090.36,Net Banking,Completed
+ORD00586,2025-10-15,Priya,Accessories,South,Mobile App,4,3589.38,0.1,12921.77,8032.04,UPI,Cancelled
+ORD00587,2025-06-30,Priya,Office Supplies,East,Store,5,12663.61,0.15,53820.34,34076.0,Debit Card,Completed
+ORD00588,2025-08-29,Priya,Furniture,West,Online,5,11381.66,0.1,51217.47,40460.32,Credit Card,Returned
+ORD00589,2025-04-02,Vikram,Electronics,South,Store,5,23962.67,0.0,119813.35,69828.36,UPI,Pending
+ORD00590,2025-09-24,Ananya,Office Supplies,West,Store,1,7435.26,0.2,5948.21,4934.14,Credit Card,Cancelled
+ORD00591,2025-04-07,Neha,Accessories,East,Mobile App,2,697.61,0.05,1325.46,1061.01,Cash,Returned
+ORD00592,2025-10-31,Vikram,Furniture,East,Online,8,11531.48,0.2,73801.47,43512.33,Debit Card,Cancelled
+ORD00593,2025-05-28,Rahul,Home Appliances,South,Mobile App,1,3836.21,0.1,3452.59,2371.16,Net Banking,Cancelled
+ORD00594,2025-04-04,Priya,Electronics,East,Mobile App,3,21007.39,0.05,59871.06,35825.43,UPI,Returned
+ORD00595,2025-05-14,Neha,Office Supplies,South,Store,6,4734.74,0.2,22726.75,17320.97,Debit Card,Pending
+ORD00596,2025-10-01,Ananya,Furniture,West,Store,5,3169.03,0.0,15845.15,10637.94,UPI,Completed
+ORD00597,2025-10-07,Vikram,Home Appliances,South,Mobile App,6,16234.01,0.1,87663.65,60678.43,Debit Card,Cancelled
+ORD00598,2025-12-19,Priya,Office Supplies,North,Store,2,18331.27,0.0,36662.54,21697.88,Net Banking,Pending
+ORD00599,2025-08-17,Sneha,Home Appliances,South,Store,6,2448.16,0.0,14688.96,10758.86,UPI,Completed
+ORD00600,2025-02-12,Rohan,Furniture,West,Store,8,16975.03,0.0,135800.24,114445.9,Net Banking,Completed
+ORD00601,2025-12-08,Neha,Electronics,East,Store,6,10029.32,0.15,51149.53,33804.16,Cash,Cancelled
+ORD00602,2025-08-17,Rohan,Accessories,East,Online,2,5510.02,0.15,9367.03,7235.64,Debit Card,Returned
+ORD00603,2025-03-13,Neha,Electronics,West,Online,2,3719.44,0.1,6694.99,4635.5,Credit Card,Returned
+ORD00604,2025-11-24,Rahul,Furniture,South,Store,5,10450.67,0.2,41802.68,28786.83,Cash,Returned
+ORD00605,2025-01-22,Ananya,Furniture,North,Online,5,20889.44,0.1,94002.48,65635.37,UPI,Cancelled
+ORD00606,2025-06-03,Ananya,Furniture,North,Online,8,3235.8,0.1,23297.76,15729.41,Cash,Returned
+ORD00607,2025-02-04,Vikram,Accessories,North,Store,6,14589.48,0.2,70029.5,47677.52,Net Banking,Completed
+ORD00608,2025-05-13,Rahul,Office Supplies,South,Online,3,14604.11,0.05,41621.71,26883.64,Cash,Cancelled
+ORD00609,2025-08-03,Priya,Home Appliances,South,Mobile App,6,1360.57,0.1,7347.08,5208.23,UPI,Completed
+ORD00610,2025-11-03,Vikram,Office Supplies,East,Online,3,13661.25,0.1,36885.38,29436.25,Net Banking,Cancelled
+ORD00611,2025-03-15,Ananya,Accessories,East,Online,1,3553.19,0.1,3197.87,2116.68,Credit Card,Pending
+ORD00612,2025-03-21,Priya,Accessories,West,Online,4,20814.6,0.2,66606.72,48891.23,Credit Card,Pending
+ORD00613,2025-01-09,Ananya,Home Appliances,East,Online,8,8803.02,0.1,63381.74,37503.24,Cash,Completed
+ORD00614,2025-03-02,Vikram,Furniture,South,Online,4,3348.55,0.05,12724.49,9624.98,Credit Card,Returned
+ORD00615,2025-12-20,Aarav,Furniture,North,Online,2,2081.72,0.15,3538.92,2750.45,Net Banking,Completed
+ORD00616,2025-08-29,Aarav,Electronics,North,Mobile App,2,22726.95,0.0,45453.9,25903.01,UPI,Pending
+ORD00617,2025-04-05,Vikram,Home Appliances,,Store,6,877.09,0.05,4999.41,4018.32,UPI,Pending
+ORD00618,2025-09-16,Sneha,Furniture,East,Online,2,2612.78,0.2,4180.45,3256.46,Net Banking,Completed
+ORD00619,2025-02-20,Rahul,Accessories,North,Online,4,23023.86,0.15,78281.12,51660.76,Cash,Returned
+ORD00620,2025-08-06,Neha,Electronics,West,Online,4,12929.14,0.15,43959.08,25665.67,Net Banking,Pending
+ORD00621,2025-09-11,Priya,Office Supplies,West,Online,6,17662.56,0.2,84780.29,64996.04,Debit Card,Cancelled
+ORD00622,2025-08-22,Rohan,Office Supplies,West,Online,5,17223.11,0.15,73198.22,45219.08,Credit Card,Returned
+ORD00623,2025-12-14,Rohan,Accessories,North,Online,6,4605.54,0.15,23488.25,17654.44,UPI,Returned
+ORD00624,2025-07-25,Sneha,Office Supplies,South,Mobile App,2,18574.59,0.05,35291.72,20095.57,Debit Card,Completed
+ORD00625,2025-04-30,Vikram,Accessories,East,Store,7,18171.23,0.1,114478.75,89229.9,Net Banking,Returned
+ORD00626,2025-09-06,Vikram,Accessories,West,Online,5,3812.25,0.15,16202.06,9436.26,UPI,Completed
+ORD00627,2025-02-20,Rahul,Accessories,East,Online,1,20783.26,0.15,17665.77,13309.96,Cash,Completed
+ORD00628,2025-02-09,Ananya,Accessories,East,Mobile App,8,19849.38,0.05,150855.29,96256.07,Cash,Completed
+ORD00629,2025-01-17,Neha,Accessories,West,Store,7,22021.12,0.0,154147.84,102522.03,Credit Card,Completed
+ORD00630,2025-04-01,Rahul,Office Supplies,West,Store,5,22134.8,0.05,105140.3,73329.46,Credit Card,Returned
+ORD00631,2025-12-04,Rohan,Office Supplies,West,Mobile App,8,11976.39,0.05,91020.56,63896.94,Debit Card,Cancelled
+ORD00632,2025-05-26,Neha,Office Supplies,North,Mobile App,6,1676.39,0.2,8046.67,4534.58,Cash,Returned
+ORD00633,2025-02-19,Aarav,Furniture,South,Online,7,8726.8,0.1,54978.84,37032.59,Cash,Completed
+ORD00634,2025-12-19,Aarav,Home Appliances,East,Online,2,21743.16,0.0,43486.32,28321.7,Debit Card,Returned
+ORD00635,2025-10-18,Neha,Accessories,West,Store,7,6775.48,0.15,40314.11,29284.04,Net Banking,Completed
+ORD00636,2025-09-08,Neha,Furniture,East,Store,2,17317.97,0.05,32904.14,21413.69,Debit Card,Pending
+ORD00637,2025-09-12,Vikram,Electronics,East,Mobile App,2,21033.46,0.2,33653.54,20670.81,Debit Card,Pending
+ORD00638,2025-11-16,Neha,Office Supplies,North,Mobile App,2,17985.02,0.2,28776.03,16644.63,Net Banking,Returned
+ORD00639,2025-08-07,Vikram,Home Appliances,East,Store,4,8780.81,0.0,35123.24,26183.01,Net Banking,Cancelled
+ORD00640,2025-04-13,Rahul,Electronics,South,Mobile App,7,10147.18,0.2,56824.21,40038.95,Debit Card,Pending
+ORD00641,2025-12-05,Rohan,Home Appliances,North,Mobile App,8,6808.21,0.2,43572.54,34539.08,UPI,Cancelled
+ORD00642,2025-08-25,Rohan,Office Supplies,North,Mobile App,3,6123.29,0.1,16532.88,13279.81,UPI,Returned
+ORD00643,2025-05-17,Sneha,Accessories,South,Online,5,16204.16,0.1,72918.72,55130.67,UPI,Pending
+ORD00644,2025-01-15,Rohan,Accessories,North,Online,4,19956.56,0.1,71843.62,49518.06,UPI,Cancelled
+ORD00645,2025-03-11,Rahul,Electronics,West,Online,1,6571.16,0.1,5914.04,4421.34,Credit Card,Completed
+ORD00646,2025-06-10,Priya,Accessories,South,Online,5,21699.22,0.15,92221.68,75532.5,Credit Card,Completed
+ORD00647,2025-09-25,Priya,Office Supplies,East,Mobile App,5,12486.81,0.0,62434.05,38797.96,Debit Card,Pending
+ORD00648,2025-08-05,Vikram,Accessories,West,Store,4,3735.31,0.05,14194.18,8718.53,Net Banking,Completed
+ORD00649,2025-09-09,Rohan,Accessories,South,Store,6,17535.5,0.0,105213.0,67856.81,UPI,Cancelled
+ORD00650,2025-09-01,Aarav,Electronics,South,Store,6,20560.93,0.0,123365.58,91737.02,Net Banking,Returned
+ORD00651,2025-06-08,Sneha,Accessories,West,Online,6,22593.45,0.0,135560.7,96312.25,Debit Card,Cancelled
+ORD00652,2025-06-04,Rahul,Accessories,East,Mobile App,2,23417.61,0.05,44493.46,28441.42,Debit Card,Completed
+ORD00653,2025-05-21,Rohan,Office Supplies,West,Online,2,20606.46,0.15,35030.98,24217.88,UPI,Cancelled
+ORD00654,2025-09-17,Neha,Accessories,North,Online,2,8893.63,0.2,14229.81,10939.44,UPI,Returned
+ORD00655,2025-11-25,Neha,Home Appliances,North,Online,3,226.43,0.05,645.33,476.57,UPI,Pending
+ORD00656,2025-09-22,Neha,Accessories,West,Mobile App,3,21196.97,0.15,54052.27,42581.98,UPI,Cancelled
+ORD00657,2025-03-30,Neha,Furniture,West,Store,6,20018.29,0.05,114104.25,65646.42,Net Banking,Pending
+ORD00658,2025-01-11,Priya,Accessories,South,Store,1,23089.34,0.2,18471.47,13631.73,UPI,Completed
+ORD00659,2025-07-25,Neha,Furniture,North,Online,7,15069.76,0.05,100213.9,57795.2,Net Banking,Returned
+ORD00660,2025-08-21,Vikram,Office Supplies,West,Store,8,3095.03,0.05,23522.23,14281.83,UPI,Returned
+ORD00661,2025-04-16,Sneha,Accessories,South,Store,4,24880.91,,89571.28,68791.86,UPI,Completed
+ORD00662,2025-05-29,Neha,Home Appliances,West,Online,5,6001.82,0.15,25507.73,20972.42,Credit Card,Returned
+ORD00663,2025-03-10,Rohan,Accessories,East,Online,6,24363.82,0.15,124255.48,93944.07,Credit Card,Completed
+ORD00664,2025-01-27,Aarav,Electronics,East,Mobile App,6,23286.96,0.15,118763.5,97679.17,Net Banking,Returned
+ORD00665,2025-06-04,Aarav,Home Appliances,South,Store,7,16830.86,0.05,111925.22,94063.9,UPI,Returned
+ORD00666,2025-06-23,Rohan,Furniture,East,Online,8,3428.2,0.1,24683.04,18835.05,Cash,Completed
+ORD00667,2025-03-07,Rohan,Office Supplies,East,Mobile App,8,21811.24,0.1,157040.93,121604.17,Cash,Cancelled
+ORD00668,2025-08-12,Rahul,Home Appliances,West,Online,3,7991.24,0.15,20377.66,15876.29,UPI,Pending
+ORD00669,2025-01-28,Ananya,Accessories,North,Store,4,4701.06,0.15,15983.6,10038.77,Credit Card,Returned
+ORD00670,2025-07-02,Rahul,Electronics,East,Online,8,11525.33,0.0,92202.64,74108.01,UPI,Cancelled
+ORD00671,2025-04-03,Sneha,Home Appliances,North,Mobile App,3,18785.93,0.1,50722.01,36467.82,Net Banking,Pending
+ORD00672,2025-08-02,Neha,Electronics,,Mobile App,2,6267.01,0.15,10653.92,8023.17,Credit Card,Returned
+ORD00673,2025-07-11,Ananya,Accessories,West,Mobile App,2,20948.88,0.05,39802.87,22236.36,Cash,Completed
+ORD00674,2025-06-18,Rahul,Furniture,,Mobile App,1,16455.89,0.15,13987.51,9056.56,Cash,Cancelled
+ORD00675,2025-01-29,Rohan,Office Supplies,South,Online,2,13746.83,0.2,21994.93,14613.81,Debit Card,Completed
+ORD00676,2025-01-11,Rahul,Electronics,East,Store,4,4199.08,0.15,14276.87,9072.68,Debit Card,Cancelled
+ORD00677,2025-12-17,Sneha,Accessories,West,Store,3,9072.25,0.0,27216.75,21762.95,Debit Card,Cancelled
+ORD00678,2025-10-16,Rahul,Accessories,West,Online,7,2392.03,0.15,14232.58,11290.68,Credit Card,Cancelled
+ORD00679,2025-08-26,Priya,Office Supplies,West,Store,4,16243.12,0.05,61723.86,51181.44,Credit Card,Returned
+ORD00680,2025-06-03,Rohan,Office Supplies,North,Mobile App,3,24607.03,0.1,66438.98,53314.72,Credit Card,Completed
+ORD00681,2025-09-20,Vikram,Office Supplies,East,Mobile App,2,12839.69,0.15,21827.47,12623.81,Credit Card,Completed
+ORD00682,2025-02-28,Aarav,Electronics,West,Mobile App,8,4611.87,0.05,35050.21,28140.87,Cash,Cancelled
+ORD00683,2025-10-28,Vikram,Office Supplies,South,Online,8,18970.25,0.15,128997.7,95089.77,UPI,Completed
+ORD00684,2025-11-06,Aarav,Electronics,West,Online,5,21809.65,0.0,109048.25,74168.04,Credit Card,Pending
+ORD00685,2025-12-02,Ananya,Office Supplies,East,Mobile App,8,11585.05,0.15,78778.34,63860.41,Debit Card,Cancelled
+ORD00686,2025-02-14,Aarav,Furniture,North,Online,3,3507.58,0.05,9996.6,5833.75,Debit Card,Pending
+ORD00687,2025-11-29,Vikram,Accessories,South,Store,4,10979.34,0.2,35133.89,21335.91,Debit Card,Completed
+ORD00688,2025-03-01,Ananya,Electronics,West,Mobile App,3,22575.02,0.15,57566.3,48307.34,UPI,Pending
+ORD00689,2025-05-31,Rohan,Accessories,West,Mobile App,7,1415.42,0.0,9907.94,5754.52,Net Banking,Cancelled
+ORD00690,2025-01-19,Ananya,Furniture,North,Mobile App,8,10082.06,0.2,64525.18,46929.92,Credit Card,Returned
+ORD00691,2025-10-23,Rohan, Accessories ,north,Store,6,13898.4,0.1,75051.36,61381.74,Net Banking,Cancelled
+ORD00692,2025-08-18,Ananya,Office Supplies,West,Online,7,667.05,0.1,4202.41,3226.87,Net Banking,Pending
+ORD00693,2025-10-28,Vikram,Accessories,West,Mobile App,6,23055.13,0.15,117581.16,69296.17,Cash,Returned
+ORD00694,2025-03-24,Rahul,Furniture,South,Online,4,7169.06,0.0,28676.24,21510.53,Net Banking,Returned
+ORD00695,2025-02-21,Sneha,Home Appliances,North,Online,7,23584.91,0.15,140330.21,89965.08,Cash,Cancelled
+ORD00696,2025-07-02,Priya,Office Supplies,West,Online,3,4491.66,0.2,10779.98,6032.38,Net Banking,Pending
+ORD00697,2025-03-03,Aarav,Home Appliances,East,Online,4,12236.18,0.1,44050.25,34599.96,Net Banking,Completed
+ORD00698,2025-12-28,Priya,Electronics,North,Mobile App,1,23176.81,0.15,19700.29,15557.24,Credit Card,Completed
+ORD00699,2025-03-27,Vikram, Accessories ,West,Mobile App,2,21791.11,0.1,39224.0,23421.03,Credit Card,Pending
+ORD00700,2025-11-28,Sneha,Accessories,West,Online,6,8465.0,0.05,48250.5,28317.98,UPI,Returned
+ORD00701,2025-06-24,Rohan,Office Supplies,South,Online,5,12699.81,0.0,63499.05,39992.0,Net Banking,Returned
+ORD00702,2025-04-27,Ananya, Home Appliances ,East,Online,3,20073.95,0.15,51188.57,42251.35,Debit Card,Pending
+ORD00703,2025-01-06,Rahul,Accessories,North,Store,2,2256.74,0.1,4062.13,2723.64,Credit Card,Pending
+ORD00704,2025-10-22,Rohan,Accessories,East,Mobile App,1,24446.66,0.2,19557.33,16463.33,Cash,Cancelled
+ORD00705,2025-01-05,Rohan,Accessories,south,Mobile App,5,22520.18,0.2,90080.72,74418.85,Net Banking,Returned
+ORD00706,2025-12-24,Vikram,Electronics,North,Mobile App,6,22208.72,0.15,113264.47,88643.05,Cash,Returned
+ORD00707,2025-03-06,Neha,Furniture,North,Online,5,5461.3,0.2,21845.2,15631.02,Net Banking,Cancelled
+ORD00708,2025-05-04,Aarav,Office Supplies,East,Mobile App,5,18203.75,0.2,72815.0,42460.8,Net Banking,Cancelled
+ORD00709,2025-03-05,Aarav,Accessories,East,Online,1,18950.51,0.0,18950.51,12973.92,Net Banking,Pending
+ORD00710,2025-06-29,Rohan,Home Appliances,South,Online,5,7220.71,0.2,28882.84,21712.1,Cash,Pending
+ORD00711,2025-07-04,Priya,Electronics,North,Store,8,2585.0,0.15,17578.0,14036.58,UPI,Returned
+ORD00712,2025-04-20,Rohan,Office Supplies,West,Mobile App,8,2090.11,0.2,13376.7,8973.44,Debit Card,Returned
+ORD00713,2025-12-19,Rahul,Home Appliances,South,Store,8,18333.17,0.15,124665.56,99376.35,Debit Card,Pending
+ORD00714,2025-12-27,Rahul,Home Appliances,East,Online,2,17407.6,0.15,29592.92,20478.5,Net Banking,Returned
+ORD00715,2025-02-26,Rahul,Electronics,East,Store,2,9334.21,0.1,16801.58,9443.91,Cash,Cancelled
+ORD00716,2025-05-31,Rohan,Electronics,East,Store,8,845.25,0.05,6423.9,3807.07,UPI,Pending
+ORD00717,2025-09-08,Aarav,Accessories,West,Mobile App,1,3189.85,0.1,2870.86,1637.16,Cash,Returned
+ORD00718,2025-06-22,Rahul,Home Appliances,West,Store,7,11959.4,0.2,66972.64,39503.34,Debit Card,Pending
+ORD00719,2025-06-16,Sneha,Accessories,East,Mobile App,2,20025.32,0.2,32040.51,21559.69,Credit Card,Returned
+ORD00720,2025-05-23,Vikram,Home Appliances,North,Mobile App,2,21668.95,0.0,43337.9,31272.56,Net Banking,Completed
+ORD00721,2025-04-09,Ananya,Home Appliances,North,Online,1,23938.73,0.2,19150.98,11621.17,Net Banking,Pending
+ORD00722,2025-01-10,Ananya,Electronics,East,Store,5,19700.91,0.05,93579.32,74761.19,Net Banking,Completed
+ORD00723,2025-09-09,Neha,Accessories,East,Online,1,8597.92,0.05,8168.02,5509.17,Credit Card,Completed
+ORD00724,2025-10-05,Priya,Furniture,East,Store,3,7240.99,0.05,20636.82,12932.4,UPI,Completed
+ORD00725,2025-11-11,Priya,Office Supplies,South,Store,6,4659.23,0.0,27955.38,17874.87,Cash,Cancelled
+ORD00726,2025-07-12,Sneha,Accessories,West,Online,2,1439.17,0.05,2734.42,2120.93,Cash,Completed
+ORD00727,2025-06-12,Rohan,Furniture,North,Store,8,13895.06,0.0,111160.48,77284.49,Net Banking,Completed
+ORD00728,2025-05-07,Sneha,Furniture,East,Mobile App,3,7719.63,0.15,19685.06,13460.54,UPI,Pending
+ORD00729,2025-10-03,Aarav,Accessories,East,Mobile App,7,24039.6,0.2,134621.76,92286.26,UPI,Completed
+ORD00730,2025-01-31,Rohan,Office Supplies,South,Mobile App,8,6941.58,0.1,49979.38,40075.78,Net Banking,Cancelled
+ORD00731,2025-01-24,Priya,Accessories,North,Online,3,18518.7,0.2,44444.88,25377.16,Net Banking,Cancelled
+ORD00732,2025-08-10,Neha,Office Supplies,West,Store,4,15319.57,0.1,55150.45,44957.52,UPI,Cancelled
+ORD00733,2025-06-24,Rahul,Electronics,West,Online,4,11576.01,0.2,37043.23,24023.91,Credit Card,Pending
+ORD00734,2025-07-31,Priya,Home Appliances,North,Mobile App,8,19097.26,0.2,122222.46,70197.81,Debit Card,Completed
+ORD00735,2025-06-30,Aarav,Electronics,West,Store,7,20712.55,0.1,130489.07,86909.02,UPI,Returned
+ORD00736,2025-01-05,Neha,Furniture,North,Mobile App,4,18617.14,0.1,67021.7,50545.51,Cash,Pending
+ORD00737,2025-04-30,Sneha,Electronics,South,Mobile App,8,24187.32,0.0,193498.56,122721.99,Debit Card,Completed
+ORD00738,2025-05-23,Rahul,Electronics,South,Mobile App,8,4386.36,0.05,33336.34,24933.97,Credit Card,Pending
+ORD00739,2025-05-13,Aarav,Home Appliances,East,Mobile App,4,22042.93,0.1,79354.55,48212.29,Net Banking,Returned
+ORD00740,2025-01-02,Neha,Accessories,West,Store,7,16078.01,0.0,112546.07,90729.91,Credit Card,Returned
+ORD00741,2025-09-11,Sneha,Electronics,East,Store,6,13003.83,0.0,78022.98,63599.71,Net Banking,Returned
+ORD00742,2025-06-11,Aarav,Furniture,West,Online,1,9887.69,0.1,8898.92,5112.81,UPI,Pending
+ORD00743,2025-03-26,Rohan,Electronics,East,Store,6,7873.53,0.0,47241.18,26377.67,UPI,Completed
+ORD00744,2025-08-31,Sneha,Electronics,West,Online,4,23976.25,0.0,95905.0,76387.39,Debit Card,Completed
+ORD00745,2025-02-13,Priya,Furniture,North,Store,1,22930.35,0.15,19490.8,12551.76,Credit Card,Cancelled
+ORD00746,2025-11-09,Vikram,Accessories,West,Online,7,1784.89,0.0,12494.23,8968.08,Net Banking,Returned
+ORD00747,2025-04-30,Priya,Office Supplies,North,Store,1,11417.27,0.15,9704.68,7652.62,Net Banking,Cancelled
+ORD00748,2025-10-28,Priya,Home Appliances,South,Mobile App,4,2833.96,0.0,11335.84,8258.75,UPI,Cancelled
+ORD00749,2025-07-01,Sneha,Furniture,North,Online,7,12112.77,0.2,67831.51,46355.19,UPI,completed
+ORD00750,2025-10-27,Rahul,Furniture,West,Store,7,12901.17,0.1,81277.37,52290.32,Net Banking,Cancelled
+ORD00751,2025-05-30,Rahul,Electronics,South,Mobile App,6,24261.24,0.2,116453.95,84537.65,Net Banking,Completed
+ORD00752,2025-08-05,Sneha,Electronics,East,Online,6,5005.87,0.05,28533.46,21176.58,Debit Card,Returned
+ORD00753,2025-11-04,Vikram,Accessories,East,Online,6,21322.42,0.2,102347.62,85861.41,Credit Card,Returned
+ORD00754,2025-01-22,Sneha,Accessories,South,Online,8,5602.24,0.0,44817.92,33238.32,Debit Card,Cancelled
+ORD00755,2025-07-12,Priya,Office Supplies,North,Mobile App,4,10097.77,0.0,40391.08,26611.47,Credit Card,Pending
+ORD00756,2025-05-29,Neha,Electronics,North,Online,8,4980.93,0.2,31877.95,26261.46,UPI,Cancelled
+ORD00757,2025-03-31,Sneha,Furniture,South,Online,4,22151.75,0.05,84176.65,54878.57,UPI,Cancelled
+ORD00758,2025-02-21,Priya,Office Supplies,South,Store,1,20811.43,0.05,19770.86,13121.46,Debit Card,Pending
+ORD00759,2025-07-09,Rohan,Electronics,North,Online,6,16573.58,0.2,79553.18,67073.72,UPI,Pending
+ORD00760,2025-04-09,Sneha,Electronics,South,Mobile App,7,17404.69,0.1,109649.55,80029.34,Cash,Pending
+ORD00761,2025-06-17,Ananya,Furniture,North,Store,4,1473.49,0.1,5304.56,4306.54,Net Banking,Completed
+ORD00762,2025-03-27,Ananya,Furniture,East,Mobile App,7,18820.0,0.2,105392.0,69799.0,Cash,Returned
+ORD00763,2025-09-11,Aarav,Furniture,South,Online,8,6818.14,0.15,46363.35,34375.26,Debit Card,Pending
+ORD00764,2025-07-22,Neha,Office Supplies,North,Online,4,7754.08,0.15,26363.87,19019.19,Credit Card,Cancelled
+ORD00765,2025-08-16,Neha,Accessories,West,Store,6,5869.91,0.0,35219.46,24286.49,Debit Card,Returned
+ORD00766,2025-07-08,Ananya,Furniture,East,Mobile App,8,8027.96,0.15,54590.13,30429.38,Credit Card,Cancelled
+ORD00767,2025-02-12,Priya,Office Supplies,South,Online,5,21088.69,0.2,84354.76,60228.92,Credit Card,Completed
+ORD00768,2025-07-04,Neha,Office Supplies,East,Mobile App,1,13718.75,0.1,12346.88,7519.17,,Pending
+ORD00769,2025-12-28,Aarav,Office Supplies,East,Store,3,24960.37,0.2,59904.89,49344.54,Debit Card,Returned
+ORD00770,2025-10-24,Rahul,Accessories,South,Online,1,11879.3,0.2,9503.44,8047.35,UPI,Returned
+ORD00771,2025-04-30,Priya,Office Supplies,South,Store,8,18104.38,0.15,123109.78,80291.94,Debit Card,Pending
+ORD00772,2025-08-13,Rahul,Office Supplies,North,Store,8,21345.66,0.0,170765.28,113116.64,Cash,Cancelled
+ORD00773,2025-04-26,Vikram,Office Supplies,North,Mobile App,7,10729.13,0.15,63838.32,49720.63,Credit Card,Pending
+ORD00774,2025-03-20,Rohan,Accessories,South,Store,6,14269.54,0.2,68493.79,56447.49,Credit Card,Returned
+ORD00775,2025-04-07,Vikram,Electronics,South,Online,8,2849.66,0.2,18237.82,15293.9,Net Banking,Pending
+ORD00776,2025-01-17,Rohan,Office Supplies,South,Online,8,816.94,0.05,6208.74,3544.24,Cash,Completed
+ORD00777,2025-08-21,Rohan,Accessories,South,Online,1,9311.01,0.0,9311.01,5601.02,UPI,Returned
+ORD00778,2025-09-02,Sneha,Office Supplies,West,Mobile App,2,9816.47,0.05,18651.29,10985.23,Debit Card,Pending
+ORD00779,2025-11-06,Ananya,Office Supplies,South,Online,5,14749.18,0.2,58996.72,45134.36,UPI,Returned
+ORD00780,2025-02-02,Ananya,Accessories,West,Mobile App,7,15180.49,0.05,100950.26,71448.25,Credit Card,Completed
+ORD00781,2025-05-28,Rahul,Accessories,South,Online,8,8767.53,0.1,63126.22,42125.84,Net Banking,Returned
+ORD00782,2025-08-23,Priya,Accessories,North,Online,7,22784.2,0.05,151514.93,115084.17,UPI,Cancelled
+ORD00783,2025-11-18,Sneha,Accessories,West,Mobile App,5,16716.42,0.0,83582.1,63473.35,Credit Card,Cancelled
+ORD00784,2025-02-09,Rahul,Office Supplies,South,Mobile App,2,12684.21,0.1,22831.58,15366.31,Credit Card,Returned
+ORD00785,2025-01-14,Rohan,Furniture,West,Online,2,16025.84,0.15,27243.93,18099.41,Credit Card,Cancelled
+ORD00786,2025-02-28,Priya,Electronics,South,Mobile App,3,8278.69,0.15,21110.66,14680.94,Debit Card,Pending
+ORD00787,2025-08-30,Priya,Furniture,East,Online,5,21062.83,0.05,100048.44,80193.7,Net Banking,Returned
+ORD00788,2025-03-28,Rahul,Accessories,East,Online,2,16834.1,0.0,33668.2,25359.39,UPI,Completed
+ORD00789,2025-12-12,Priya,Accessories,East,Store,4,11135.14,0.0,44540.56,35674.78,,Completed
+ORD00790,2025-01-25,Sneha,Furniture,North,Online,7,19212.79,0.05,127765.05,84630.73,Debit Card,Completed
+ORD00791,2025-01-08,Priya,Furniture,South,Online,6,20540.08,0.0,123240.48,75937.13,Debit Card,Completed
+ORD00792,2025-06-17,Rohan,Accessories,North,Online,6,14117.04,0.05,80467.13,59336.62,UPI,Completed
+ORD00793,2025-07-02,Aarav,Accessories,South,Store,6,4464.5,0.15,22768.95,16990.14,UPI,Completed
+ORD00794,2025-12-03,Sneha,Accessories,East,Mobile App,5,16301.13,0.1,73355.08,41312.24,Debit Card,Completed
+ORD00795,2025-12-31,Rohan,Furniture,East,Online,3,6410.71,0.0,19232.13,14038.69,Cash,Returned
+ORD00796,2025-02-04,Sneha,Home Appliances,North,Online,6,588.57,0.2,2825.14,1934.3,Credit Card,Completed
+ORD00797,2025-06-08,Aarav,Furniture,East,Store,4,18487.15,0.05,70251.17,51699.93,Cash,Pending
+ORD00798,2025-03-19,Ananya,Office Supplies,South,Store,7,5228.98,0.0,36602.86,22745.72,Cash,Completed
+ORD00799,2025-09-24,Sneha,Office Supplies,East,Online,7,16253.95,0.1,102399.89,79376.84,UPI,Completed
+ORD00800,2025-12-07,Rohan,Home Appliances,East,Online,4,20066.08,0.05,76251.1,55847.75,Debit Card,Completed
+ORD00801,2025-02-03,Rahul,Furniture,South,Online,8,1889.13,0.05,14357.39,8121.0,UPI,Pending
+ORD00802,2025-05-01,Sneha,Furniture,West,Online,2,10742.06,0.15,18261.5,11750.16,Net Banking,Pending
+ORD00803,2025-06-05,Ananya,Electronics,East,Store,5,14474.08,0.05,68751.88,43420.82,Debit Card,Pending
+ORD00804,2025-08-30,Rahul,Accessories,North,Store,8,10654.03,0.2,68185.79,52535.68,Debit Card,Completed
+ORD00805,2025-06-03,Ananya,Office Supplies,West,Store,3,13888.38,0.05,39581.88,24825.26,Debit Card,Returned
+ORD00806,2025-02-06,Sneha,Electronics,North,Mobile App,6,3545.91,0.15,18084.14,11008.08,Cash,Returned
+ORD00807,2025-07-27,Vikram,Home Appliances,North,Store,7,23516.08,0.1,148151.3,98551.91,Credit Card,Completed
+ORD00808,2025-07-17,Neha,Home Appliances,West,Mobile App,3,4976.57,0.15,12690.25,10623.38,Cash,Completed
+ORD00809,2025-11-30,Aarav,Office Supplies,North,Mobile App,7,23173.99,0.05,154107.03,95963.35,UPI,Cancelled
+ORD00810,2025-11-06,Rahul,Electronics,North,Online,8,23614.99,0.05,179473.92,112402.08,Debit Card,Returned
+ORD00811,2025-12-28,Rahul,Accessories,East,Mobile App,2,13035.65,0.05,24767.73,20131.26,Cash,Returned
+ORD00812,2025-10-28,Neha,Furniture,East,Mobile App,5,18388.25,0.0,91941.25,53581.73,UPI,Returned
+ORD00813,2025-12-24,Aarav,Electronics,North,Mobile App,5,309.54,,1470.32,1168.78,Debit Card,Returned
+ORD00814,2025-12-02,Rahul,Furniture,South,Store,5,18366.1,0.05,87238.97,52598.15,UPI,Completed
+ORD00815,2025-08-19,Sneha,Office Supplies,West,Store,4,4763.11,0.0,19052.44,14765.16,Net Banking,Completed
+ORD00816,2025-11-22,Vikram,Electronics,East,Online,3,2133.27,0.0,6399.81,4245.11,Net Banking,Pending
+ORD00817,2025-09-02,Vikram,Electronics,North,Online,8,16869.19,0.0,134953.52,74609.32,UPI,Completed
+ORD00818,2025-07-12,Rohan,Office Supplies,East,Mobile App,5,23313.39,0.15,99081.91,76993.93,Cash,Cancelled
+ORD00819,2025-05-03,Neha,Office Supplies,North,Online,6,16677.2,0.15,85053.72,62365.02,Debit Card,Returned
+ORD00820,2025-03-13,Sneha,Office Supplies,West,Mobile App,1,15107.44,0.2,12085.95,7660.56,Debit Card,Returned
+ORD00821,2025-12-05,Neha,Electronics,East,Mobile App,4,227.76,0.1,819.94,455.06,Debit Card,Pending
+ORD00822,2025-11-07,Neha,Accessories,West,Mobile App,8,10094.1,0.2,64602.24,50918.72,Credit Card,Returned
+ORD00823,2025-05-31,Aarav,Furniture,West,Online,4,17841.76,0.2,57093.63,46409.71,Cash,Returned
+ORD00824,2025-03-28,Sneha,Furniture,South,Online,8,23883.02,0.15,162404.54,121607.32,Credit Card,Completed
+ORD00825,2025-08-11,Vikram,Furniture,East,Mobile App,1,4131.85,0.1,3718.67,3052.26,Debit Card,Completed
+ORD00826,2025-12-07,Neha,Furniture,North,Mobile App,3,23079.99,0.15,58853.97,33966.54,Cash,Returned
+ORD00827,2025-07-15,Vikram,Electronics,North,Online,7,20239.92,0.05,134595.47,84489.37,Cash,Pending
+ORD00828,2025-03-01,,Office Supplies,North,Mobile App,6,3316.32,0.1,17908.13,14975.15,Net Banking,Pending
+ORD00829,2025-07-18,Rahul,Home Appliances,South,Online,7,8093.13,0.1,50986.72,40241.55,Debit Card,Completed
+ORD00830,2025-10-03,Ananya,Accessories,South,Mobile App,8,8000.77,0.1,57605.54,46151.54,Cash,Pending
+ORD00831,2025-12-07,Priya,Office Supplies,west,Mobile App,1,15032.18,0.1,13528.96,9479.92,UPI,Returned
+ORD00832,2025-05-30,Sneha,Furniture,North,Online,7,1611.49,0.1,10152.39,6048.9,Debit Card,Returned
+ORD00833,2025-06-03,Rohan,Accessories,East,Store,3,24777.92,0.2,59467.01,39705.27,Debit Card,Completed
+ORD00834,2025-09-28,Rohan,Electronics,South,Store,5,7166.75,0.05,34042.06,25883.29,Net Banking,Completed
+ORD00835,2025-12-30,Ananya,Accessories,East,Online,5,11519.68,0.05,54718.48,39569.52,UPI,Pending
+ORD00836,2025-04-11,Rahul,Accessories,West,Mobile App,1,9151.31,0.2,7321.05,4250.49,UPI,Completed
+ORD00837,2025-02-19,Priya,Home Appliances,East,Mobile App,6,24357.85,0.05,138839.74,115725.56,Debit Card,Pending
+ORD00838,2025-11-18,Ananya,Office Supplies,South,Mobile App,7,6238.27,0.0,43667.89,27172.63,Debit Card,Completed
+ORD00839,2025-08-26,Priya,Electronics,North,Online,7,6989.12,0.15,41585.26,27454.46,Debit Card,Pending
+ORD00840,2025-01-12,Rahul,Accessories,West,Mobile App,8,6952.06,0.0,55616.48,43842.64,Debit Card,Cancelled
+ORD00841,2025-10-20,Rahul,Accessories,North,Store,3,2621.12,0.0,7863.36,6008.63,Net Banking,Returned
+ORD00842,2025-02-02,Priya,Furniture,South,Online,2,18874.68,0.05,35861.89,30113.38,Net Banking,Returned
+ORD00843,2025-06-10,Rahul,Electronics,East,Online,2,1122.71,0.2,1796.34,1099.12,Credit Card,Completed
+ORD00844,2025-09-17,Aarav,Furniture,East,Online,5,9184.46,0.2,36737.84,22097.11,Net Banking,Cancelled
+ORD00845,2025-12-04,Neha,Home Appliances,South,Mobile App,8,3625.4,0.15,24652.72,18699.84,Credit Card,Completed
+ORD00846,2025-05-02,Sneha,Furniture,South,Mobile App,1,4823.63,0.1,4341.27,3502.65,Cash,Cancelled
+ORD00847,2025-03-07,Rahul,Accessories,West,Online,7,1997.84,0.1,12586.39,7906.8,Cash,Returned
+ORD00848,2025-12-22,Vikram,Furniture,East,Mobile App,3,13467.22,0.0,40401.66,29851.59,Net Banking,Pending
+ORD00849,2025-08-03,Sneha,Electronics,East,Online,3,8011.55,0.15,20429.45,13558.67,Net Banking,Completed
+ORD00850,2025-12-17,Neha,Office Supplies,South,Online,7,1789.09,0.0,12523.63,8251.14,Cash,Completed
+ORD00851,2025-02-20,Priya,Electronics,South,Mobile App,7,24490.21,0.05,162859.9,108072.15,Cash,Returned
+ORD00852,2025-02-18,Priya,Electronics,South,Store,6,17556.32,0.1,94804.13,67828.82,Debit Card,Pending
+ORD00853,2025-06-26,Rahul,Furniture,South,Store,7,12000.02,0.05,79800.13,50092.0,Net Banking,Cancelled
+ORD00854,2025-01-28,Rohan,Accessories,South,Store,6,17731.44,0.05,101069.21,76152.07,Cash,Returned
+ORD00855,2025-09-15,Sneha,Office Supplies,North,Store,5,7004.2,0.15,29767.85,21021.41,Debit Card,Cancelled
+ORD00856,2025-02-16,Rahul,Home Appliances,North,Online,2,2055.83,0.05,3906.08,3255.56,Cash,Returned
+ORD00857,2025-01-06,Priya,Accessories,North,Mobile App,7,16974.27,0.05,112878.9,78326.31,UPI,Completed
+ORD00858,2025-08-06,Aarav,Home Appliances,West,Online,6,6219.02,0.2,29851.3,22544.4,Net Banking,Pending
+ORD00859,2025-03-31,Aarav,Accessories,West,Store,2,9271.22,0.05,17615.32,12403.04,UPI,Cancelled
+ORD00860,2025-02-27,Priya,Office Supplies,East,Store,6,22864.02,0.05,130324.91,104197.1,Cash,Cancelled
+ORD00861,2025-04-20,Vikram,Home Appliances,North,Store,1,18489.94,0.2,14791.95,9882.3,Net Banking,Returned
+ORD00862,2025-01-30,Neha,Electronics,North,Store,6,296.39,0.15,1511.59,980.37,UPI,Returned
+ORD00863,2025-07-01,Rahul,Accessories,North,Store,1,2668.24,0.15,2268.0,1381.81,Credit Card,Pending
+ORD00864,2025-12-03,Neha,Accessories,South,Mobile App,5,5768.47,0.15,24516.0,16236.77,Cash,Completed
+ORD00865,2025-08-13,Aarav,Office Supplies,,Online,8,4171.58,0.1,30035.38,23251.21,UPI,Cancelled
+ORD00866,2025-01-21,Rahul,Furniture,West,Mobile App,3,9954.47,0.1,26877.07,22047.24,Cash,Completed
+ORD00867,2025-08-04,Rohan,Home Appliances,West,Online,8,13820.57,0.05,105036.33,68007.48,Credit Card,Completed
+ORD00868,2025-01-11,Sneha,Electronics,East,Store,3,4015.22,0.2,9636.53,5339.55,Net Banking,Completed
+ORD00869,2025-08-11,Rohan,Furniture,South,Mobile App,8,7343.25,0.15,49934.1,28701.35,Net Banking,Pending
+ORD00870,2025-05-08,Sneha,Accessories,South,Store,5,19203.18,0.1,86414.31,73303.28,Credit Card,Pending
+ORD00871,2025-04-07,Vikram,Furniture,South,Store,3,5850.2,0.05,16673.07,11177.38,Credit Card,Pending
+ORD00872,2025-02-16,Sneha,Furniture,East,Store,1,9601.76,0.2,7681.41,4930.96,Debit Card,Completed
+ORD00873,2025-09-19,Neha,Office Supplies,East,Mobile App,7,16150.25,0.1,101746.57,59319.93,Debit Card,Pending
+ORD00874,2025-06-13,Neha,Furniture,East,Store,1,4666.53,0.0,4666.53,2639.57,Cash,PENDING
+ORD00875,2025-08-09,Vikram,Electronics,North,Mobile App,3,6418.74,0.15,16367.79,10787.59,Credit Card,Pending
+ORD00876,2025-06-19,Neha,Furniture,East,Online,6,18571.11,0.1,100283.99,77507.45,Net Banking,Returned
+ORD00877,2025-02-14,Sneha,Furniture,West,Online,2,3392.56,0.2,5428.1,3181.44,Credit Card,Cancelled
+ORD00878,2025-06-04,Rahul,Electronics,South,Online,8,24742.67,0.05,188044.29,133524.09,Debit Card,Cancelled
+ORD00879,2025-10-14,Priya,Accessories,North,Store,6,22388.59,0.15,114181.81,84375.72,Debit Card,Completed
+ORD00880,2025-03-27,Aarav,Furniture,West,Store,5,17463.15,0.05,82949.96,52830.57,Net Banking,Completed
+ORD00881,2025-03-26,Rohan,Accessories,East,Online,8,18805.59,0.15,127878.01,91912.27,UPI,Completed
+ORD00882,2025-03-23,Ananya,Home Appliances,East,Store,4,14864.0,0.0,59456.0,48382.11,UPI,Cancelled
+ORD00883,2025-12-29,Sneha,Office Supplies,North,Mobile App,5,13870.95,0.05,65887.01,40664.07,UPI,Cancelled
+ORD00884,2025-03-10,Sneha,Furniture,North,Online,5,21853.56,0.0,109267.8,81155.81,Cash,Cancelled
+ORD00885,2025-06-16,Rahul,Accessories,East,Store,2,23668.73,0.2,37869.97,23828.22,Credit Card,Completed
+ORD00886,2025-07-02,Aarav,Home Appliances,North,Mobile App,4,18302.35,0.1,65888.46,39732.1,Debit Card,Cancelled
+ORD00887,2025-11-17,Sneha,Home Appliances,West,Online,4,20448.65,0.05,77704.87,50296.72,Debit Card,Pending
+ORD00888,2025-08-11,Rahul,Accessories,South,Online,6,3836.1,0.15,19564.11,11310.16,UPI,Returned
+ORD00889,2025-04-03,Rohan,Home Appliances,South,Online,5,673.03,0.05,3196.89,2607.31,UPI,Completed
+ORD00890,2025-08-07,Rahul,Electronics,North,Store,4,11457.35,0.15,38954.99,22596.63,Debit Card,Completed
+ORD00891,2025-02-26,Priya,Office Supplies,South,Mobile App,1,19121.63,0.0,19121.63,11275.14,Net Banking,Completed
+ORD00892,2025-01-05,Priya,Furniture,South,Store,2,13627.9,0.1,24530.22,19766.85,Net Banking,Returned
+ORD00893,2025-03-25,Vikram,Home Appliances,North,Online,5,8394.14,0.05,39872.16,24846.04,Credit Card,Completed
+ORD00894,2025-10-06,Sneha,Electronics,South,Store,5,2698.77,0.15,11469.77,6796.42,Debit Card,Pending
+ORD00895,2025-06-30,Priya,Accessories,South,Online,5,5763.23,0.15,24493.73,18517.99,UPI,Completed
+ORD00896,2025-05-25,Priya,Electronics,South,Online,6,2045.81,0.1,11047.37,6468.29,Debit Card,Cancelled
+ORD00897,2025-11-04,Vikram,Home Appliances,East,Store,3,17033.92,0.05,48546.67,39708.03,Credit Card,Cancelled
+ORD00898,2025-09-13,Rahul,Furniture,East,Online,6,23332.11,0.0,139992.66,110126.18,Debit Card,Returned
+ORD00899,2025-09-02,Vikram,Furniture,North,Store,2,2962.13,0.15,5035.62,4219.22,UPI,Pending
+ORD00900,2025-07-17,Rohan,Home Appliances,East,Online,6,8085.0,0.15,41233.5,28631.99,UPI,Returned
+ORD00901,2025-08-03,Sneha,Accessories,north,Mobile App,8,13537.87,0.15,92057.52,65337.12,Debit Card,Pending
+ORD00902,2025-12-26,Aarav,Office Supplies,West,Online,2,5994.55,0.0,11989.1,7325.15,Credit Card,Completed
+ORD00903,2025-06-28,Rahul,Home Appliances,West,Online,6,21241.47,0.05,121076.38,77296.27,UPI,Pending
+ORD00904,2025-01-29,Aarav,Accessories,East,Online,3,3063.31,0.05,8730.43,5790.35,Credit Card,Completed
+ORD00905,2025-09-02,Sneha,Electronics,North,Mobile App,3,900.12,0.1,2430.32,1439.68,Debit Card,Pending
+ORD00906,2025-04-04,Vikram,Accessories,West,Mobile App,8,18627.41,0.2,119215.42,90552.36,Cash,Returned
+ORD00907,2025-11-27,Aarav,Home Appliances,South,Mobile App,1,7276.21,0.05,6912.4,3926.24,UPI,Completed
+ORD00908,2025-07-22,Vikram,Home Appliances,East,Mobile App,7,17045.6,0.15,101421.32,72642.69,UPI,Returned
+ORD00909,2025-03-22,Rahul,Furniture,West,Mobile App,5,24332.09,0.2,97328.36,64554.79,Credit Card,Pending
+ORD00910,2025-07-20,Priya,Accessories,West,Store,3,20589.25,0.2,49414.2,36147.72,Debit Card,Returned
+ORD00911,2025-03-26,Priya,Electronics,North,Store,1,20112.98,0.15,17096.03,10401.55,Net Banking,Cancelled
+ORD00912,2025-01-15,Sneha,Home Appliances,North,Store,4,7162.84,0.2,22921.09,13338.68,UPI,Pending
+ORD00913,2025-11-23,Aarav,Home Appliances,West,Online,1,6122.33,0.0,6122.33,5161.12,Credit Card,Cancelled
+ORD00914,2025-02-17,Rohan,Home Appliances,South,Store,5,360.7,0.1,1623.15,1258.76,Debit Card,Cancelled
+ORD00915,2025-03-08,Rahul,Electronics,West,Store,2,8383.26,0.2,13413.22,7783.7,Net Banking,Completed
+ORD00916,2025-05-29,Priya,Furniture,South,Mobile App,3,3915.71,0.15,9985.06,5727.69,UPI,Pending
+ORD00917,2025-09-14,Neha,Home Appliances,West,Online,6,11269.88,0.05,64238.32,41864.51,Debit Card,Pending
+ORD00918,2025-04-17,Ananya,Electronics,North,Online,2,23956.69,0.2,38330.7,28300.97,Cash,Completed
+ORD00919,2025-09-13,Rahul,Electronics,East,Mobile App,2,11451.98,0.05,21758.76,18064.49,Cash,Cancelled
+ORD00920,2025-02-15,Ananya,Office Supplies,West,Mobile App,2,4602.78,0.15,7824.73,4909.1,UPI,Completed
+ORD00921,2025-10-19,Rahul,Accessories,East,Mobile App,8,1133.88,0.1,8163.94,5472.14,Net Banking,Cancelled
+ORD00922,2025-07-11,Aarav,Home Appliances,North,Mobile App,2,17102.69,0.2,27364.3,18745.3,UPI,Completed
+ORD00923,2025-03-21,Priya,Furniture,West,Store,2,7372.92,0.05,14008.55,10100.73,Credit Card,Cancelled
+ORD00924,2025-08-27,Rahul,Electronics,West,Store,8,16115.74,0.15,109587.03,63860.28,UPI,Returned
+ORD00925,2025-06-18,Ananya,Electronics,East,Store,2,8034.53,0.2,12855.25,8945.82,Credit Card,Pending
+ORD00926,2025-08-29,Rohan,Electronics,east,Store,3,16059.38,0.1,43360.33,31239.47,Debit Card,Pending
+ORD00927,2025-01-28,Rahul,Electronics,South,Online,4,21720.31,0.15,73849.05,46595.39,Cash,Returned
+ORD00928,2025-02-11,Sneha,Office Supplies,South,Online,5,21863.33,0.15,92919.15,75393.37,Credit Card,Returned
+ORD00929,2025-06-25,Ananya,Accessories,south,Mobile App,5,4238.65,0.1,19073.92,15880.61,Debit Card,Cancelled
+ORD00930,2025-12-21,Sneha,Electronics,South,Store,7,20601.94,0.2,115370.86,90557.09,Cash,Completed
+ORD00931,2025-03-19,Priya,Accessories,East,Mobile App,8,23355.41,0.15,158816.79,128528.9,Credit Card,Returned
+ORD00932,2025-03-06,Sneha,Furniture,West,Mobile App,8,16027.07,0.2,102573.25,59413.9,Net Banking,Pending
+ORD00933,2025-11-04,Aarav,Office Supplies,East,Online,7,5521.01,0.05,36714.72,30682.97,Cash,Cancelled
+ORD00934,2025-09-15,Neha,Office Supplies,West,Mobile App,2,17528.03,0.15,29797.65,20090.06,Cash,Completed
+ORD00935,2025-04-01,Rahul, Home Appliances ,West,Store,8,10795.33,0.05,82044.51,58729.6,Cash,Returned
+ORD00936,2025-11-21,Priya,Electronics,North,Mobile App,5,17597.0,0.0,87985.0,74664.86,Debit Card,Completed
+ORD00937,2025-09-12,Aarav,Office Supplies,West,Online,2,15893.1,0.2,25428.96,18419.98,UPI,Returned
+ORD00938,2025-10-10,Neha,Accessories,West,Mobile App,7,2995.35,0.15,17822.33,14884.59,Debit Card,Completed
+ORD00939,2025-07-11,Vikram,Office Supplies,West,Mobile App,4,12762.89,0.1,45946.4,37394.95,UPI,Completed
+ORD00940,2025-08-01,Neha,Office Supplies,South,Mobile App,1,535.92,0.05,509.12,400.76,Debit Card,Pending
+ORD00941,2025-10-12,Rohan,Furniture,West,Mobile App,7,4937.61,0.15,29378.78,23460.86,UPI,Returned
+ORD00942,2025-06-12,Rahul,Home Appliances,North,Mobile App,3,11019.43,0.0,33058.29,25223.72,Net Banking,Returned
+ORD00943,2025-11-18,Sneha,Electronics,North,Online,5,20957.85,0.05,99549.79,83085.26,Debit Card,Completed
+ORD00944,2025-11-18,Priya,Home Appliances,West,Online,3,841.29,0.2,2019.1,1668.14,UPI,Returned
+ORD00945,2025-11-21,Sneha,Accessories,East,Mobile App,6,4785.9,0.05,27279.63,17433.78,Credit Card,Cancelled
+ORD00946,2025-02-12,Priya,Accessories,North,Online,3,15741.83,0.2,37780.39,30605.2,UPI,Cancelled
+ORD00947,2025-05-15,Sneha,Accessories,,Store,3,2455.51,0.15,6261.55,5030.45,Credit Card,Returned
+ORD00948,2025-02-07,Rohan,Accessories,East,Mobile App,8,23986.55,0.0,191892.4,117647.08,Debit Card,Pending
+ORD00949,2025-04-03,Aarav,Electronics,East,Store,5,401.99,0.05,1909.45,1428.08,Debit Card,Completed
+ORD00950,2025-03-23,Aarav,Home Appliances,South,Online,5,23175.59,0.05,110084.05,80563.17,Cash,Completed
+ORD00951,2025-04-22,Rahul,Office Supplies,East,Store,1,8289.36,0.05,7874.89,4528.32,UPI,Completed
+ORD00952,2025-06-28,Rohan,Furniture,East,Online,5,11756.04,0.15,49963.17,34015.86,UPI,Cancelled
+ORD00953,2025-07-21,Sneha,Accessories,West,Store,2,14653.66,0.2,23445.86,15086.84,Debit Card,Cancelled
+ORD00954,2025-06-13,Neha,Office Supplies,North,Store,2,15241.3,0.15,25910.21,15803.06,UPI,Completed
+ORD00955,2025-09-19,Neha,Accessories,North,Online,5,14733.7,0.1,66301.65,48477.42,UPI,Cancelled
+ORD00956,2025-08-08,Neha,Office Supplies,South,Store,3,9039.95,0.0,27119.85,16666.65,Credit Card,Completed
+ORD00957,2025-06-13,Neha,Furniture,North,Store,1,17962.55,0.05,17064.42,11767.85,Cash,Pending
+ORD00958,2025-09-27,Priya,Home Appliances,West,Mobile App,4,2707.57,0.1,9747.25,7455.47,Debit Card,Cancelled
+ORD00959,2025-06-13,Vikram,Accessories,North,Online,4,5048.51,0.15,17164.93,12008.5,Debit Card,Pending
+ORD00960,2025-11-04,Vikram,Electronics,North,Store,6,14840.6,0.05,84591.42,61153.18,Cash,Pending
+ORD00961,2025-07-26,Aarav,Electronics,West,Online,1,22411.36,0.2,17929.09,10071.42,Debit Card,Cancelled
+ORD00962,2025-05-21,Neha,Accessories,North,Store,6,18879.25,0.15,96284.18,55260.4,Cash,Returned
+ORD00963,2025-09-10,Sneha,Electronics,North,Online,2,21100.43,0.2,33760.69,19608.99,Credit Card,Cancelled
+ORD00964,2025-12-19,Neha,Home Appliances,North,Mobile App,7,5774.58,0.0,40422.06,24550.25,Credit Card,Cancelled
+ORD00965,2025-01-23,Neha,Home Appliances,West,Store,2,1342.88,0.1,2417.18,1383.87,UPI,Pending
+ORD00966,2025-10-26,Rohan,Accessories,North,Mobile App,8,3129.55,0.1,22532.76,18219.28,Net Banking,Pending
+ORD00967,2025-10-23,Ananya,Furniture,North,Store,8,16582.53,0.1,119394.22,77197.13,Cash,Completed
+ORD00968,2025-06-30,Priya,Accessories,North,Online,4,16538.1,0.05,62844.78,47667.11,Credit Card,Pending
+ORD00969,2025-08-28,Neha,Office Supplies,West,Mobile App,7,4819.75,0.0,33738.25,22001.9,UPI,Completed
+ORD00970,2025-03-08,Sneha,Accessories,South,Online,4,22929.93,0.15,77961.76,65684.3,Cash,Returned
+ORD00971,2025-03-26,Rahul,Accessories,North,Mobile App,5,23794.64,0.2,95178.56,70861.86,Credit Card,Pending
+ORD00972,2025-01-09,Ananya,Office Supplies,East,Online,8,4797.69,0.0,38381.52,26593.49,Net Banking,Completed
+ORD00973,2025-07-01,Neha,Electronics,West,Store,7,5419.84,0.15,32248.05,22594.83,Cash,Completed
+ORD00974,2025-01-26,Sneha,Accessories,South,Mobile App,7,18340.24,0.15,109124.43,66367.24,Cash,Returned
+ORD00975,2025-09-23,Priya,Furniture,North,Online,7,2863.24,0.0,20042.68,14909.82,Credit Card,Cancelled
+ORD00976,2025-05-03,Rohan,Accessories,West,Online,2,13373.47,0.1,24072.25,14875.19,UPI,Cancelled
+ORD00977,2025-09-11,Vikram,Home Appliances,East,Mobile App,4,4400.07,0.05,16720.27,10939.9,Credit Card,Completed
+ORD00978,2025-04-05,Priya,Furniture,South,Store,8,18516.41,0.05,140724.72,84585.38,Debit Card,Pending
+ORD00979,2025-01-07,,Electronics,South,Mobile App,8,10783.88,0.0,86271.04,52043.39,Credit Card,Cancelled
+ORD00980,2025-08-31,Aarav,Electronics,East,Online,1,12284.44,0.05,11670.22,8073.11,Net Banking,Pending
+ORD00981,2025-03-17,Neha,Home Appliances,East,Mobile App,2,2634.81,0.1,4742.66,3252.44,Debit Card,Cancelled
+ORD00982,2025-07-06,Neha,Home Appliances,West,Online,8,486.99,0.1,3506.33,2245.24,Cash,Completed
+ORD00983,2025-03-17,Aarav,Furniture,West,Store,7,21428.2,0.05,142497.53,93643.44,UPI,Completed
+ORD00984,2025-04-10,Ananya,Home Appliances,South,Store,7,16022.53,0.1,100941.94,82080.25,Cash,Cancelled
+ORD00985,2025-07-20,Aarav,Home Appliances,East,Mobile App,7,23639.87,,148931.18,95732.51,Credit Card,Returned
+ORD00986,2025-08-21,Rahul,Accessories,South,Mobile App,6,7316.95,0.0,43901.7,30717.06,Cash,Pending
+ORD00987,2025-06-05,Aarav,Furniture,East,Mobile App,8,7313.26,0.1,52655.47,29206.82,Credit Card,Completed
+ORD00988,2025-09-08,Aarav,Electronics,East,Online,5,276.49,0.1,1244.21,930.76,Cash,Cancelled
+ORD00989,2025-09-15,Sneha,Accessories,North,Store,3,23849.08,0.1,64392.52,38171.45,UPI,Completed
+ORD00990,2025-08-31,Priya,Office Supplies,East,Mobile App,6,6330.9,0.15,32287.59,21851.24,Cash,Pending
+ORD00991,2025-10-16,Rahul,Furniture,east,Online,7,17021.24,0.1,107233.81,84855.62,Debit Card,Pending
+ORD00992,2025-06-04,Ananya,Home Appliances,South,Store,5,2277.11,0.2,9108.44,7543.02,Debit Card,Completed
+ORD00993,2025-03-12,Neha,Accessories,East,Store,8,17399.21,0.2,111354.94,92476.26,Debit Card,Returned
+ORD00994,2025-07-30,Rohan,Electronics,South,Mobile App,8,837.67,0.2,5361.09,2991.09,Cash,Pending
+ORD00995,2025-10-25,Vikram,Electronics,West,Online,6,3312.78,0.2,15901.34,13038.68,Debit Card,Completed
+ORD00996,2025-08-25,Priya,Office Supplies,North,Store,8,21004.07,0.0,168032.56,95174.96,Net Banking,Returned
+ORD00997,2025-12-20,Aarav,Furniture,South,Mobile App,6,21628.21,0.0,129769.26,100200.28,Debit Card,Pending
+ORD00998,2025-04-25,Aarav,Accessories,South,Online,3,7627.17,0.1,20593.36,15769.21,Credit Card,Completed
+ORD00999,2025-03-20,Ananya, Electronics ,West,Store,2,13067.59,0.05,24828.42,15177.32,Credit Card,Completed
+ORD01000,2025-06-03,Vikram,Home Appliances,West,Mobile App,7,12170.43,0.05,80933.36,64429.53,Net Banking,Completed
+ORD01001,2025-08-10,Sneha,Furniture,South,Store,3,15959.5,0.05,45484.57,26949.87,Debit Card,Cancelled
+ORD01002,2025-05-29,Vikram,Accessories,West,Mobile App,2,23983.42,0.15,40771.81,26917.62,Credit Card,Returned
+ORD01003,2025-08-02,Rohan,Electronics,East,Online,7,3831.94,0.1,24141.22,16588.03,Net Banking,Returned
+ORD01004,2025-01-22,Ananya,Office Supplies,North,Online,6,24075.49,0.15,122785.0,100036.29,Cash,Pending
+ORD01005,2025-06-28,Neha,Home Appliances,East,Store,7,12899.17,0.05,85779.48,64058.04,UPI,Cancelled
+ORD01006,2025-12-04,Ananya,Accessories,West,Mobile App,5,23098.4,0.0,115492.0,95263.35,UPI,Cancelled
+ORD01007,2025-03-08,Rohan,Electronics,North,Online,6,14782.97,0.2,70958.26,46437.11,UPI,Pending
+ORD01008,2025-02-19,Sneha,Furniture,North,Online,2,12560.93,0.15,21353.58,13817.85,Debit Card,Returned
+ORD01009,2025-02-02,Priya,Accessories,East,Mobile App,1,15355.81,0.0,15355.81,8618.07,Credit Card,Pending
+ORD01010,2025-06-14,,Furniture,East,Store,2,17513.33,0.15,29772.66,17564.83,Debit Card,Cancelled
+ORD01011,2025-04-26,Sneha,Electronics,North,Mobile App,4,18592.52,0.15,63214.57,50201.93,Credit Card,Pending
+ORD01012,2025-01-18,Priya,Office Supplies,South,Mobile App,3,22348.28,0.1,60340.36,47205.21,Net Banking,Returned
+ORD01013,2025-04-08,Neha,Home Appliances,South,Online,4,14323.7,0.15,48700.58,34102.83,Debit Card,Returned
+ORD01014,2025-11-17,Vikram,Electronics,North,Store,7,21868.33,0.2,122462.65,70225.37,UPI,Completed
+ORD01015,2025-11-04,Vikram,Accessories,East,Online,6,710.18,0.1,3834.97,3170.3,UPI,Cancelled
+ORD01016,2025-02-08,Rohan,Home Appliances,North,Mobile App,4,21351.9,0.2,68326.08,47829.22,Credit Card,Returned
+ORD01017,2025-05-15,Neha,Electronics,South,Online,1,952.03,0.15,809.23,508.41,Net Banking,Cancelled
+ORD01018,2025-12-06,Aarav,Office Supplies,North,Store,1,6005.09,0.0,6005.09,4754.22,Net Banking,Completed
+ORD01019,2025-10-10,Priya,Electronics,West,Mobile App,8,23673.03,0.1,170445.82,130731.76,UPI,Cancelled
+ORD01020,2025-08-09,Aarav,Electronics,South,Mobile App,8,7689.95,0.05,58443.62,32519.96,Net Banking,Returned
+ORD01021,2025-12-16,Rohan,Furniture,West,Mobile App,1,13879.52,0.0,13879.52,9245.67,Debit Card,Pending
+ORD01022,2025-03-01,Neha,Office Supplies,South,Store,8,3082.12,0.2,19725.57,16663.38,Debit Card,Completed
+ORD01023,2025-05-02,Aarav,Electronics,South,Online,4,2435.97,0.0,9743.88,6023.06,Credit Card,Completed
+ORD01024,2025-03-06,Sneha,Office Supplies,South,Mobile App,8,4637.75,0.0,37102.0,23902.51,Debit Card,Returned
+ORD01025,2025-12-03,Sneha,Accessories,East,Online,2,16466.27,0.0,32932.54,20584.8,Debit Card,Cancelled
+ORD01026,2025-07-07,Vikram,Office Supplies,North,Online,5,21743.93,0.05,103283.67,73130.34,Cash,Returned
+ORD01027,2025-12-28,Sneha,Office Supplies,South,Online,8,7102.63,0.05,53979.99,44458.72,Cash,Pending
+ORD01028,2025-01-19,Aarav,Accessories,North,Store,4,17503.8,0.15,59512.92,49747.65,Cash,Returned
+ORD01029,2025-06-03,Aarav,Accessories,West,Store,2,1634.04,0.2,2614.46,1739.09,Credit Card,Pending
+ORD01030,2025-04-16,Vikram,Electronics,East,Online,7,4733.01,0.15,28161.41,19987.49,Net Banking,Cancelled
+ORD01031,2025-05-15,Rohan,Accessories,North,Online,4,18967.72,0.1,68283.79,52423.92,Net Banking,Returned
+ORD01032,2025-12-14,Vikram,Furniture,West,Store,5,21484.08,0.2,85936.32,59214.49,UPI,Pending
+ORD01033,2025-01-08,Sneha,Home Appliances,East,Store,5,20019.78,0.1,90089.01,51860.74,Net Banking,Returned
+ORD01034,2025-01-20,Aarav,Electronics,East,Mobile App,5,9138.12,0.1,41121.54,32269.22,Cash,Cancelled
+ORD01035,2025-04-02,Aarav,Office Supplies,West,Mobile App,8,11648.7,0.15,79211.16,43776.94,Net Banking,Pending
+ORD01036,2025-07-29,Neha,Electronics,West,Online,1,14552.32,0.0,14552.32,9210.65,Cash,Cancelled
+ORD01037,2025-05-13,Aarav,Furniture,North,Mobile App,8,3311.48,0.05,25167.25,14951.12,Credit Card,Pending
+ORD01038,2025-12-17,Sneha,Electronics,East,Store,8,14560.28,0.0,116482.24,83403.88,Credit Card,Cancelled
+ORD01039,2025-10-04,Ananya,Electronics,North,Online,1,15074.38,0.1,13566.94,7906.12,UPI,Cancelled
+ORD01040,2025-10-20,Rohan,Office Supplies,South,Online,6,20754.08,0.15,105845.81,60482.2,Cash,Cancelled
+ORD01041,2025-06-21,Vikram,Home Appliances,North,Online,7,22450.2,0.1,141436.26,97761.52,Cash,Completed
+ORD01042,2025-05-29,Sneha,Office Supplies,East,Online,3,22810.04,0.0,68430.12,39817.41,Debit Card,Completed
+ORD01043,2025-12-03,Sneha,Home Appliances,West,Mobile App,3,9620.08,0.0,28860.24,24143.14,Credit Card,Completed
+ORD01044,2025-11-07,Vikram,Furniture,East,Online,8,16531.06,0.2,105798.78,72187.06,Cash,Pending
+ORD01045,2025-07-05,Ananya,Accessories,East,Online,4,11477.16,0.0,45908.64,34795.17,Cash,Completed
+ORD01046,2025-07-05,Sneha,Home Appliances,South,Mobile App,8,15189.68,0.15,103289.82,81174.56,UPI,Returned
+ORD01047,2025-12-12,Priya,Electronics,West,Store,3,15197.81,0.1,41034.09,26773.58,Net Banking,Pending
+ORD01048,2025-10-22,Ananya,Electronics,South,Online,8,15870.85,0.05,120618.46,98902.52,Debit Card,Cancelled
+ORD01049,2025-10-11,Rohan,Electronics,South,Online,8,18609.92,0.05,141435.39,114681.14,UPI,Returned
+ORD01050,2025-08-05,Vikram,Electronics,East,Store,6,3317.21,0.2,15922.61,9910.72,Net Banking,Completed
+ORD01051,2025-01-24,Rohan,Accessories,West,Store,2,18507.9,0.1,33314.22,27816.56,Debit Card,Pending
+ORD01052,2025-04-04,Neha,Accessories,West,Store,2,3933.57,0.0,7867.14,5727.8,Debit Card,Pending
+ORD01053,2025-09-18,Ananya,Office Supplies,North,Mobile App,5,23627.49,0.0,118137.45,73207.3,Net Banking,Returned
+ORD01054,2025-05-27,Aarav,Furniture,west,Mobile App,6,9694.08,0.05,55256.26,46197.22,Cash,Cancelled
+ORD01055,2025-02-20,,Accessories,South,Online,6,7227.06,0.0,43362.36,27593.77,Cash,Cancelled
+ORD01056,2025-11-07,Sneha,Home Appliances,South,Online,2,23124.22,0.1,41623.6,24653.7,Net Banking,Completed
+ORD01057,2025-10-04,Vikram,Home Appliances,West,Mobile App,4,315.63,0.0,1262.52,834.35,Debit Card,Pending
+ORD01058,2025-08-21,Rohan,Accessories,East,Online,5,22962.18,0.0,114810.9,78452.76,UPI,Cancelled
+ORD01059,2025-12-09,Sneha,Electronics,,Online,2,24215.72,0.0,48431.44,37451.22,Net Banking,Cancelled
+ORD01060,2025-05-22,Priya,Office Supplies,North,Store,8,15821.0,0.2,101254.4,76105.28,Credit Card,Cancelled
+ORD01061,2025-04-08,Rohan,Furniture,South,Store,1,23737.19,0.0,23737.19,14806.64,Debit Card,Pending
+ORD01062,2025-09-06,Priya,Home Appliances,South,Online,3,18378.98,0.1,49623.25,29254.77,Debit Card,Completed
+ORD01063,2025-09-09,Vikram,Home Appliances,West,Mobile App,4,17793.26,0.0,71173.04,48073.67,Net Banking,Pending
+ORD01064,2025-11-23,Sneha, Office Supplies ,West,Store,6,12183.19,0.05,69444.18,56483.6,Debit Card,Cancelled
+ORD01065,2025-10-06,Vikram,Accessories,,Store,8,7491.12,0.05,56932.51,33232.09,UPI,Returned
+ORD01066,2025-03-01,Neha,Accessories,South,Store,3,11698.69,0.1,31586.46,23632.48,Debit Card,Returned
+ORD01067,2025-12-18,Rohan,Electronics,East,Store,4,869.72,0.1,3130.99,2198.73,Cash,Returned
+ORD01068,2025-07-20,Vikram,Accessories,South,Store,8,10716.2,0.1,77156.64,63554.74,Credit Card,Cancelled
+ORD01069,2025-08-18,Priya,Home Appliances,East,Online,7,5649.55,0.05,37569.51,26704.56,Net Banking,Completed
+ORD01070,2025-01-11,Priya,Electronics,South,Store,7,2392.78,0.1,15074.51,12416.4,Net Banking,Pending
+ORD01071,2025-03-22,Rahul,Office Supplies,East,Store,7,21514.11,0.05,143068.83,91142.89,UPI,Pending
+ORD01072,2025-01-07,Rohan,Accessories,North,Online,1,21160.23,0.2,16928.18,9831.15,Cash,Cancelled
+ORD01073,2025-01-13,Priya,Accessories,West,Online,4,15844.15,0.05,60207.77,33724.38,Cash,Completed
+ORD01074,2025-02-09,Rahul,Electronics,West,Online,2,12687.07,0.15,21568.02,11992.82,Net Banking,Cancelled
+ORD01075,2025-06-15,Ananya,Furniture,North,Store,7,12882.04,0.0,90174.28,57769.81,Net Banking,Returned
+ORD01076,2025-07-12,Vikram,Accessories,East,Mobile App,5,10823.93,0.05,51413.67,43190.87,Net Banking,Pending
+ORD01077,2025-07-15,Priya,Accessories,South,Mobile App,1,24829.88,0.15,21105.4,17632.24,Credit Card,Returned
+ORD01078,2025-04-29,Vikram,Office Supplies,South,Mobile App,8,9340.07,0.2,59776.45,34830.81,Credit Card,Completed
+ORD01079,2025-10-15,Priya,Furniture,West,Mobile App,3,5310.89,0.15,13542.77,9859.45,Debit Card,Pending
+ORD01080,2025-01-31,Rahul,Electronics,East,Mobile App,8,6412.79,0.1,46172.09,35651.93,Net Banking,Returned
+ORD01081,2025-01-03,Ananya,Office Supplies,South,Store,5,17306.37,0.2,69225.48,54577.97,Debit Card,Returned
+ORD01082,2025-09-21,Rohan,Furniture,North,Online,2,23042.58,0.15,39172.39,29762.27,Net Banking,Completed
+ORD01083,2025-03-27,Rohan,Accessories,South,Mobile App,4,11024.39,0.0,44097.56,24770.42,Net Banking,Returned
+ORD01084,2025-03-13,Vikram,Office Supplies,East,Mobile App,7,10075.23,0.1,63473.95,37149.72,Cash,Pending
+ORD01085,2025-03-14,Neha,Home Appliances,East,Store,5,13152.79,0.05,62475.75,49408.58,Debit Card,Pending
+ORD01086,2025-06-19,Rohan,Furniture,South,Store,3,4231.32,0.15,10789.87,5966.22,Credit Card,Completed
+ORD01087,2025-06-09,Neha,Electronics,North,Mobile App,4,5101.8,0.0,20407.2,14516.04,Debit Card,Pending
+ORD01088,2025-02-04,Aarav,Furniture,East,Store,6,15963.14,0.05,90989.9,59460.74,Debit Card,Cancelled
+ORD01089,2025-07-08,Sneha,Electronics,South,Online,7,23367.55,0.2,130858.28,93211.02,UPI,Cancelled
+ORD01090,2025-04-02,Rohan,Office Supplies,East,Mobile App,5,14156.95,0.05,67245.51,53061.1,Net Banking,Returned
+ORD01091,2025-04-18,Priya,Home Appliances,South,Online,3,216.37,0.05,616.65,522.13,UPI,Returned
+ORD01092,2025-01-01,Ananya,Accessories,West,Store,6,2083.02,0.0,12498.12,7387.54,Cash,Completed
+ORD01093,2025-05-04,Neha,Office Supplies,East,Mobile App,7,9526.14,0.15,56680.53,43183.39,Credit Card,Pending
+ORD01094,2025-03-27,Ananya,Office Supplies,North,Mobile App,5,17826.99,0.15,75764.71,54410.11,Debit Card,Cancelled
+ORD01095,2025-04-02,Neha,Accessories,South,Mobile App,1,21673.54,0.15,18422.51,14392.1,Net Banking,Pending
+ORD01096,2025-07-15,Neha,Home Appliances,South,Online,6,4598.29,0.0,27589.74,16795.28,Net Banking,Cancelled
+ORD01097,2025-06-18,Aarav,Home Appliances,East,Online,2,22789.36,0.1,41020.85,28748.97,Cash,Returned
+ORD01098,2025-07-23,Aarav,Home Appliances,North,Mobile App,1,24894.09,0.1,22404.68,14165.41,Debit Card,Returned
+ORD01099,2025-09-09,Aarav,Office Supplies,North,Mobile App,3,11915.19,0.2,28596.46,22654.95,UPI,Pending
+ORD01100,2025-03-09,Aarav,Office Supplies,North,Mobile App,2,10576.38,0.0,21152.76,11989.69,Cash,Pending
+ORD01101,2025-12-02,Rahul,Home Appliances,East,Mobile App,1,8416.72,0.1,7575.05,6206.4,Credit Card,Returned
+ORD01102,2025-08-02,Vikram,Electronics,South,Store,1,1764.13,0.2,1411.3,838.67,Credit Card,Cancelled
+ORD01103,2025-11-08,Aarav,Office Supplies,East,Mobile App,4,17264.61,0.15,58699.67,35330.77,Cash,Completed
+ORD01104,2025-06-24,Ananya,Electronics,North,Online,8,14269.11,0.0,114152.88,82173.73,UPI,Completed
+ORD01105,2025-04-06,Aarav,Furniture,East,Store,6,14840.04,0.0,89040.24,69452.88,Credit Card,Pending
+ORD01106,2025-06-07,Rohan,Office Supplies,South,Store,4,18723.1,0.05,71147.78,45758.42,UPI,Cancelled
+ORD01107,2025-07-31,Rahul,Office Supplies,East,Mobile App,4,20906.59,0.1,75263.72,61345.24,Debit Card,Cancelled
+ORD01108,2025-02-17,Ananya,Furniture,North,Mobile App,8,8975.55,0.1,64623.96,42306.58,Debit Card,Pending
+ORD01109,2025-10-03,Vikram,Furniture,East,Mobile App,4,24844.83,0.15,84472.42,55251.42,Net Banking,Cancelled
+ORD01110,2025-02-16,Priya,Home Appliances,South,Store,4,6566.61,0.15,22326.47,14026.69,UPI,Returned
+ORD01111,2025-10-28,Aarav,Office Supplies,North,Mobile App,6,9401.23,0.15,47946.27,35839.43,Cash,Completed
+ORD01112,2025-03-23,Priya,Furniture,East,Store,7,11966.07,0.1,75386.24,56114.83,UPI,Returned
+ORD01113,2025-10-07,Ananya,Home Appliances,West,Mobile App,3,18838.32,0.15,48037.72,38082.69,Debit Card,completed
+ORD01114,2025-05-05,Rohan,Office Supplies,North,Online,5,18125.81,0.2,72503.24,47225.96,Net Banking,Completed
+ORD01115,2025-08-04,Aarav,Furniture,South,Store,7,19385.7,0.2,108559.92,72759.58,Net Banking,Pending
+ORD01116,2025-10-18,Aarav,Electronics,East,Online,3,3377.79,0.1,9120.03,7173.55,Cash,Returned
+ORD01117,2025-07-22,Rahul,Office Supplies,East,Online,3,11595.6,0.05,33047.46,20162.98,UPI,Pending
+ORD01118,2025-04-15,Neha,Electronics,west,Online,7,2390.65,0.05,15897.82,9478.94,Cash,Completed
+ORD01119,2025-08-30,Ananya,Furniture,North,Store,7,17514.68,0.15,104212.35,78214.61,UPI,Cancelled
+ORD01120,2025-03-10,Rohan,Home Appliances,West,Mobile App,7,19365.52,0.1,122002.78,97106.57,Credit Card,Cancelled
+ORD01121,2025-09-08,Sneha,Office Supplies,East,Store,1,5659.1,0.2,4527.28,2731.98,Net Banking,Completed
+ORD01122,2025-11-09,Sneha,Electronics,South,Store,7,22877.46,0.05,152135.11,89976.35,Debit Card,Completed
+ORD01123,2025-06-23,Vikram,Accessories,West,Online,7,16403.02,0.15,97597.97,58092.68,Cash,Returned
+ORD01124,2025-04-02,Ananya,Electronics,East,Mobile App,3,10045.67,0.2,24109.61,19294.19,Credit Card,Returned
+ORD01125,2025-01-07,Ananya, Electronics ,West,Mobile App,3,8077.79,0.2,19386.7,13611.23,Debit Card,Returned
+ORD01126,2025-01-28,Ananya,Home Appliances,East,Store,5,10710.78,0.0,53553.9,39152.76,Cash,Cancelled
+ORD01127,2025-02-27,Priya,Furniture,North,Store,3,24521.25,0.2,58851.0,45779.21,Net Banking,Cancelled
+ORD01128,2025-04-12,Priya,Accessories,West,Store,8,10956.97,0.15,74507.4,47276.0,Credit Card,Cancelled
+ORD01129,2025-05-10,Aarav,Home Appliances,East,Online,7,8535.92,0.1,53776.3,41948.21,Cash,Cancelled
+ORD01130,2025-08-02,Priya,Office Supplies,North,Mobile App,1,11252.24,0.1,10127.02,7502.04,Debit Card,Pending
+ORD01131,2025-03-31,Ananya,Accessories,East,Store,2,13444.38,0.05,25544.32,19618.96,Debit Card,Pending
+ORD01132,2025-09-26,Rahul,Home Appliances,North,Store,8,1159.93,0.1,8351.5,5527.35,Net Banking,Completed
+ORD01133,2025-06-22,Vikram,Electronics,West,Online,5,10649.87,0.0,53249.35,32225.39,UPI,Cancelled
+ORD01134,2025-06-05,Ananya,Furniture,West,Store,4,17402.29,0.0,69609.16,46100.12,UPI,Cancelled
+ORD01135,2025-09-14,Vikram,Electronics,West,Online,1,15174.87,0.05,14416.13,10862.01,Credit Card,Returned
+ORD01136,2025-12-03,Neha,Electronics,South,Online,3,6978.0,0.15,17793.9,12984.63,Credit Card,Cancelled
+ORD01137,2025-04-24,Rohan,Home Appliances,East,Mobile App,2,15342.95,0.2,24548.72,19592.15,Debit Card,Returned
+ORD01138,2025-10-13,Ananya,Furniture,West,Mobile App,1,8672.33,0.1,7805.1,5103.83,Debit Card,Pending
+ORD01139,2025-09-30,Priya,Accessories,East,Online,3,16873.7,0.1,45558.99,30564.68,UPI,Cancelled
+ORD01140,2025-06-05,Aarav,Furniture,South,Mobile App,5,18808.81,0.15,79937.44,60140.97,Cash,Returned
+ORD01141,2025-08-01,Ananya,Furniture,West,Mobile App,1,18822.0,0.1,16939.8,12144.68,UPI,Returned
+ORD01142,2025-11-07,Priya,Home Appliances,East,Online,2,2559.95,0.05,4863.9,2983.48,UPI,Returned
+ORD01143,2025-10-09,Vikram,Office Supplies,East,Mobile App,7,8897.81,0.05,59170.44,39966.91,Credit Card,Cancelled
+ORD01144,2025-09-15,Ananya,Office Supplies,West,Online,7,5743.72,0.15,34175.13,23869.62,UPI,Returned
+ORD01145,2025-05-28,Rahul,Electronics,West,Mobile App,1,13386.74,0.1,12048.07,9384.01,Debit Card,Returned
+ORD01146,2025-07-30,Priya,Home Appliances,West,Online,4,15964.96,0.2,51087.87,31534.39,Cash,Pending
+ORD01147,2025-03-27,Rohan,Home Appliances,South,Online,8,17156.42,0.1,123526.22,68781.36,Debit Card,Cancelled
+ORD01148,2025-05-03,Vikram,Electronics,North,Online,3,11883.4,0.05,33867.69,21906.21,Net Banking,Returned
+ORD01149,2025-08-24,Rahul,Accessories,North,Mobile App,4,17139.23,0.15,58273.38,49352.54,Cash,Pending
+ORD01150,2025-05-06,Aarav,Accessories,West,Store,8,18092.85,0.0,144742.8,79907.43,Credit Card,Returned
+ORD01151,2025-05-14,Aarav,Accessories,West,Mobile App,2,17937.5,0.2,28700.0,21356.44,Credit Card,Cancelled
+ORD01152,2025-07-23,Ananya,Accessories,North,Online,1,9179.83,0.2,7343.86,5425.5,UPI,Cancelled
+ORD01153,2025-10-24,Neha,Furniture,South,Store,2,18091.56,0.1,32564.81,21944.38,UPI,Cancelled
+ORD01154,2025-02-19,Ananya,Furniture,East,Store,6,16104.58,0.0,96627.48,66428.75,Cash,Returned
+ORD01155,2025-06-19,Aarav,Furniture,South,Mobile App,8,17534.11,0.2,112218.3,70988.14,Cash,Completed
+ORD01156,2025-04-24,Rahul,Home Appliances,East,Store,6,14153.95,0.1,76431.33,49068.82,Debit Card,Cancelled
+ORD01157,2025-03-21,Vikram,Furniture,North,Online,3,3791.17,0.1,10236.16,8268.2,Net Banking,Cancelled
+ORD01158,2025-03-17,Rohan,Accessories,South,Store,1,6596.62,0.2,5277.3,4082.72,UPI,Cancelled
+ORD01159,2025-09-25,Ananya,Furniture,West,Store,6,9542.77,0.15,48668.13,36234.05,Credit Card,Completed
+ORD01160,2025-06-25,Priya,Furniture,East,Store,4,7836.31,0.05,29777.98,17718.69,Debit Card,Completed
+ORD01161,2025-09-26,Rohan,Electronics,East,Mobile App,4,18573.24,0.1,66863.66,50099.15,Credit Card,Cancelled
+ORD01162,2025-10-11,Sneha,Furniture,East,Mobile App,2,24265.36,0.0,48530.72,33194.52,UPI,Pending
+ORD01163,2025-04-27,Vikram,Electronics,South,Mobile App,8,4559.15,0.2,29178.56,18374.59,Credit Card,Pending
+ORD01164,2025-09-25,Ananya,Accessories,North,Mobile App,5,1662.5,0.05,7896.88,4921.19,Credit Card,Cancelled
+ORD01165,2025-11-21,Ananya,Furniture,North,Mobile App,2,5031.18,0.0,10062.36,6868.26,Net Banking,Pending
+ORD01166,2025-11-03,Priya,Accessories,South,Mobile App,8,7604.03,0.0,60832.24,44073.81,Net Banking,Returned
+ORD01167,2025-01-01,Rahul,Office Supplies,West,Mobile App,5,18900.82,0.2,75603.28,47722.53,Cash,Cancelled
+ORD01168,2025-05-16,Ananya,Electronics,South,Store,4,8627.39,0.2,27607.65,19350.72,Credit Card,Cancelled
+ORD01169,2025-09-18,Rohan,Office Supplies,North,Store,8,12470.33,0.05,94774.51,53989.99,Cash,Pending
+ORD01170,2025-04-10,,Office Supplies,West,Online,2,19106.89,0.05,36303.09,23312.4,Cash,Pending
+ORD01171,2025-10-20,Rahul,Furniture,South,Store,3,8195.57,0.05,23357.37,18216.86,Net Banking,Returned
+ORD01172,2025-12-01,Vikram,Accessories,East,Store,7,19526.91,,123019.53,76101.98,UPI,Cancelled
+ORD01173,2025-06-20,Rohan,Home Appliances,West,Store,6,20756.4,0.1,112084.56,76768.1,Credit Card,Returned
+ORD01174,2025-01-29,Vikram,Electronics,South,Online,7,8937.26,0.05,59432.78,50071.86,Cash,Cancelled
+ORD01175,2025-07-11,Sneha,Furniture,West,Store,1,8147.87,0.15,6925.69,4485.81,Credit Card,Completed
+ORD01176,2025-05-05,Ananya,Electronics,West,Mobile App,3,8238.25,0.15,21007.54,17487.69,Debit Card,Pending
+ORD01177,2025-05-24,Vikram,Home Appliances,East,Store,7,1624.02,0.0,11368.14,8433.89,Cash,Completed
+ORD01178,2025-08-30,Rohan,Furniture,South,Mobile App,3,22039.12,0.0,66117.36,42801.98,Cash,Pending
+ORD01179,2025-10-15,Vikram,Home Appliances,East,Mobile App,2,11040.79,0.1,19873.42,14345.03,Credit Card,Pending
+ORD01180,2025-02-04,Ananya,Furniture,South,Store,6,23936.42,0.1,129256.67,106188.37,Debit Card,Pending
+ORD01181,2025-08-24,Aarav,Furniture,North,Mobile App,6,8425.35,0.1,45496.89,28508.68,Debit Card,Returned
+ORD01182,2025-07-22,Neha,Electronics,West,Online,8,19982.71,0.2,127889.34,72652.13,Net Banking,Cancelled
+ORD01183,2025-10-03,Priya,Home Appliances,,Mobile App,8,7173.76,0.1,51651.07,38237.91,Credit Card,Pending
+ORD01184,2025-09-20,Sneha,Electronics,West,Store,2,14412.04,0.15,24500.47,17959.08,Debit Card,Returned
+ORD01185,2025-03-19,Rohan,Electronics,West,Mobile App,6,1964.69,0.2,9430.51,6148.15,Cash,Completed
+ORD01186,2025-11-16,Rahul,Office Supplies,South,Mobile App,7,618.96,0.05,4116.08,2661.93,Cash,Returned
+ORD01187,2025-12-01,Rahul,Furniture,South,Online,4,19282.71,0.2,61704.67,51067.21,,Pending
+ORD01188,2025-02-21,Neha,Electronics,East,Store,1,13405.54,0.0,13405.54,10507.78,UPI,Pending
+ORD01189,2025-04-14,Sneha,Office Supplies,North,Online,5,4207.73,0.1,18934.78,11737.55,Debit Card,Completed
+ORD01190,2025-07-12,Ananya,Accessories,West,Online,1,11182.22,0.05,10623.11,7055.07,UPI,Returned
+ORD01191,2025-10-30,Priya,Furniture,South,Online,2,2457.37,0.05,4669.0,3277.69,Debit Card,Cancelled
+ORD01192,2025-06-12,Neha,Accessories,East,Mobile App,7,4895.88,0.0,34271.16,27072.07,Credit Card,Returned
+ORD01193,2025-01-09,Priya,Office Supplies,East,Store,1,9593.72,0.15,8154.66,5464.38,Credit Card,Returned
+ORD01194,2025-11-30,Rohan,Accessories,North,Store,5,5849.57,0.0,29247.85,21793.44,Cash,Completed
+ORD01195,2025-03-14,Rahul,Furniture,West,Online,4,4557.36,0.0,18229.44,10725.92,Credit Card,Pending
+ORD01196,2025-12-05,Rohan,Furniture,South,Mobile App,5,9386.85,0.15,39894.11,31794.62,UPI,Pending
+ORD01197,2025-07-06,Vikram,Accessories,East,Store,2,19695.94,0.0,39391.88,27545.43,Net Banking,Cancelled
+ORD01198,2025-01-15,Rahul,Accessories,North,Mobile App,1,8389.81,0.15,7131.34,3995.45,Debit Card,Pending
+ORD01199,2025-03-22,Priya,Electronics,West,Store,2,521.22,0.05,990.32,572.05,Debit Card,Returned
+ORD01200,2025-03-10,Vikram,Furniture,East,Mobile App,1,7889.06,0.15,6705.7,5497.77,Net Banking,Cancelled
+ORD00460,2025-01-07,Aarav,Office Supplies,West,Store,4,16445.37,0.0,65781.48,45416.7,Credit Card,Cancelled
+ORD00458,2025-02-26,Rahul,Furniture,North,Online,2,13151.53,0.0,26303.06,14812.13,Credit Card,Returned
+ORD01023,2025-05-02,Aarav,Electronics,South,Online,4,2435.97,0.0,9743.88,6023.06,Credit Card,Completed
+ORD00142,2025-04-21,Priya,Office Supplies,South,Store,3,13787.79,0.2,33090.7,23439.18,Credit Card,Completed
+ORD00669,2025-01-28,Ananya,Accessories,North,Store,4,4701.06,0.15,15983.6,10038.77,Credit Card,Returned
+ORD01012,2025-01-18,Priya,Office Supplies,South,Mobile App,3,22348.28,0.1,60340.36,47205.21,Net Banking,Returned
+ORD00152,2025-03-27,Neha,Home Appliances,West,Store,8,8885.94,0.0,71087.52,54598.37,Credit Card,Completed
+ORD00831,2025-12-07,Priya,Office Supplies,West,Mobile App,1,15032.18,0.1,13528.96,9479.92,UPI,Returned
+ORD00751,2025-05-30,Rahul,Electronics,South,Mobile App,6,24261.24,0.2,116453.95,84537.65,Net Banking,Completed
+ORD00047,2025-03-12,Priya,Accessories,West,Store,3,5896.85,0.05,16806.02,12804.94,Net Banking,Returned
+ORD01133,2025-06-22,Vikram,Electronics,West,Online,5,10649.87,0.0,53249.35,32225.39,UPI,Cancelled
+ORD00129,2025-09-14,Neha,Electronics,South,Online,3,23949.4,0.15,61070.97,35485.32,UPI,Returned
+ORD00035,2025-06-06,Vikram,Electronics,East,Store,4,5689.65,0.05,21620.67,14475.9,Net Banking,Returned
+ORD00281,2025-02-23,Aarav,Furniture,East,Online,4,13315.89,0.05,50600.38,34203.06,Credit Card,Pending
+ORD00595,2025-05-14,Neha,Office Supplies,South,Store,6,4734.74,0.2,22726.75,17320.97,Debit Card,Pending
